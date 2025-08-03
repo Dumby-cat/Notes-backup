@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b9f2c07cfb644855",
+        "id": "5b7343f552153b24",
         "type": "tabs",
         "children": [
           {
-            "id": "0a3ec4cbf7b1d527",
+            "id": "c62d970da407c75f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,8 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0a3ec4cbf7b1d527",
+  "active": "c62d970da407c75f",
   "lastOpenFiles": [
+    "test.md",
     "README.md",
     "Notes",
     "Untitled.canvas",
