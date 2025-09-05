@@ -1,0 +1,10 @@
+{
+  "ink:create-handwritten-section": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowRight"
+    }
+  ]
+}
