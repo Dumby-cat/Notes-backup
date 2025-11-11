@@ -4,17 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "a698349149073154",
+        "id": "fe0868b88693f934",
         "type": "tabs",
         "children": [
           {
-            "id": "4143e10030e5b580",
+            "id": "70090afce322aee9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "教材/概率论与数理统计/full.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "full"
+            }
+          },
+          {
+            "id": "0337c9c24b733303",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "教材/PDF/概率论与数理统计.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "概率论与数理统计"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0203fb8f71340900",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54d1b0d51c369900",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记/概率论与数理统计/概率论与数理统计.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "概率论与数理统计"
             }
           }
         ]
@@ -33,7 +69,7 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": true
           },
           "icon": "lucide-folder-closed",
           "title": "文件列表"
@@ -127,8 +163,9 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "笔记/概率论与数理统计/概率论与数理统计.md",
             "followCursor": false,
-            "showSearch": true,
+            "showSearch": false,
             "searchQuery": ""
           },
           "icon": "lucide-list",
@@ -149,41 +186,46 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "4143e10030e5b580",
+  "active": "54d1b0d51c369900",
   "lastOpenFiles": [
-    "教材/信号与系统中文版前六章/full.md",
-    "教材/PDF/信号与系统 中文高清.pdf",
-    "笔记/信号与系统/信号与系统.md",
-    "笔记/信号与系统/images/卷积和例子.jpg",
-    "笔记/信号与系统/images/连续时间傅里叶级数性质列表.jpg",
-    "笔记/信号与系统/images/不满足狄利赫里条件的信号.jpg",
-    "笔记/大学物理下/大学物理下.md",
-    "教材/大学物理学 下册/full.md",
-    "教材/PDF/信号与系统中文版.pdf",
-    "教材/PDF/信号与系统 英文高清.pdf",
-    "教材/信号与系统英文版前六章/full.md",
-    "笔记/数值计算方法/数值计算方法.md",
-    "教材/数值计算方法与算法/full.md",
-    "教材/PDF/数值计算方法与算法.pdf",
+    "教材/概率论与数理统计/full.md",
     "笔记/概率论与数理统计/概率论与数理统计.md",
+    "教材/PDF/概率论与数理统计.pdf",
+    "教材/PDF/大学物理学  上册  第2版.pdf",
+    "教材/大学物理学  上册/full.md",
+    "笔记/大学物理下/大学物理下.md",
+    "教材/PDF/大学物理学 下册.pdf",
+    "教材/大学物理学 下册/full.md",
+    "笔记/信号与系统/信号与系统.md",
+    "教材/PDF/信号与系统 中文高清.pdf",
+    "教材/信号与系统中文版后半部分/full.md",
+    "教材/PDF/复变函数与积分变换.pdf",
     "教材/复变函数与积分变换/full.md",
     "笔记/复变函数/复变函数.md",
-    "教材/PDF/复变函数与积分变换.pdf",
-    "笔记/复变函数/images/Ink/Writing/2025.10.10 - 10.49am.writing",
-    "教材/PDF/概率论与数理统计.pdf",
-    "教材/概率论与数理统计/full.md",
-    "教材/PDF/概率论与数理统计习题册.pdf",
-    "教材/概率论与数理统计/43029600-d6f1-4ecc-b6b3-7a2af67efe59_origin.pdf",
-    "教材/PDF/大学物理学 下册.pdf",
+    "教材/大学物理学  上册/images/fabae9b74cf98184e8cb0fb76262605a16b3afb2159b5803930d06d6708ba68e.jpg",
+    "教材/大学物理学  上册/images/edcf2464961c20fc70796db964baa08584f35cae2444e1a1e355d74a834307fd.jpg",
+    "教材/大学物理学  上册/images/ec540fc1fdf8e96d5c25a4a8e9fc28a7fa510f3c2ad5b65e49a807d6f7106c4a.jpg",
+    "教材/大学物理学  上册/images/e333d9df4155e90c57d58b713bb25ba2201e3ae598b4dc3b0c23f726eeddeafb.jpg",
+    "教材/大学物理学  上册/images/da0dd4df50e83ad52840130bc7d7b1882cacfe41657b35de7ac0819db966ea18.jpg",
+    "教材/大学物理学  上册/images/d8c8dc97fa619cb30e04af6c0b908e4735a5cbf45e9e6cb7f34756b5f9a65d38.jpg",
+    "教材/大学物理学  上册/images/d7183adddd33f083a84f274106fa4d29c954a605dae866ed25add6492de34b54.jpg",
+    "教材/大学物理学  上册/images/d4582bb78f4d83559cdf38d3584bddb5e9cc016208da7e0e31dbbff3e7a58154.jpg",
+    "教材/大学物理学  上册/images/d42abcc7ee4d07400549ea77d84cbd08c0e3aa087e928adbd0ee3ae1cfc91f56.jpg",
+    "教材/大学物理学  上册/images/fbb1868e538add051d41d1cc91ea5bc08644b33f8ba8e9ee75585c487c0edd1e.jpg",
+    "教材/大学物理学  上册/layout.json",
+    "教材/大学物理学  上册/images",
+    "教材/大学物理学  上册/2529a501-4026-4a6e-b773-51a504e24c6e_origin.pdf",
+    "教材/大学物理学  上册/2529a501-4026-4a6e-b773-51a504e24c6e_model.json",
+    "教材/大学物理学  上册/2529a501-4026-4a6e-b773-51a504e24c6e_content_list.json",
     "教材/数字逻辑设计及应用/full.md",
     "笔记/数字逻辑与嵌入式系统/数字逻辑与嵌入式系统.md",
+    "教材/数值计算方法与算法/full.md",
+    "笔记/数值计算方法/数值计算方法.md",
+    "教材/信号与系统中文版前六章/full.md",
+    "教材/信号与系统英文版前六章/full.md",
     "笔记/大物实验/大物实验.md",
-    "笔记/信号与系统/images/Pasted image 20250924154442.jpg",
     "未命名.canvas",
-    "Pasted image 20250917150023.png",
     "2025-09-16.md",
-    "笔记/数字逻辑与嵌入式系统/images/格雷码.jpg",
-    "笔记/信号与系统/images/单位阶跃和单位脉冲.jpg",
     "教材/结构化大学物理实验前五章/full.md",
     "gitignore.md",
     "preamble.sty.md",
@@ -192,11 +234,6 @@
     "copilot-custom-prompts/Remove URLs.md",
     "copilot-custom-prompts/Generate glossary.md",
     "copilot-custom-prompts/Generate table of contents.md",
-    "copilot-custom-prompts/Make longer.md",
-    "copilot-custom-prompts/Make shorter.md",
-    "教材/信号与系统中文版后半部分/images/e775c0ab970f35ec7b34f872ab419c73c4780a087c6b65bc26dfea43b28438c2.jpg",
-    "教材/信号与系统中文版后半部分/images/e60fa96982dfa1c9f448540871d76073786d79b34bd99ac9d5a02e3718ccdf79.jpg",
-    "教材/信号与系统中文版后半部分/images/e0c9e045dc0df861bf9e771e21604640a624a97e5e1884b76036eee1884c89dd.jpg",
     "Untitled.canvas"
   ]
 }
