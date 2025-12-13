@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "52bd581eebe7de6c",
+        "id": "979c7541180bb34b",
         "type": "tabs",
         "children": [
           {
@@ -33,10 +33,11 @@
               "title": "数字逻辑设计及应用"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "979c7541180bb34b",
+        "id": "d32979fff7b4dd3b",
         "type": "tabs",
         "children": [
           {
@@ -163,7 +164,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "笔记/数字逻辑与嵌入式系统/数字逻辑与嵌入式系统.md",
+            "file": "教材/PDF/数字逻辑设计及应用.pdf",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -187,7 +188,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e9ff8fef18a3c10",
+  "active": "32de06546fec6fb1",
   "lastOpenFiles": [
     "教材/数字逻辑设计及应用/full.md",
     "笔记/数字逻辑与嵌入式系统/数字逻辑与嵌入式系统.md",
