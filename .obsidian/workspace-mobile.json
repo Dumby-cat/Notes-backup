@@ -8,13 +8,50 @@
         "type": "tabs",
         "children": [
           {
-            "id": "308429c46549ba33",
+            "id": "c9a636781dd9d27b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "教材/数字逻辑设计及应用/full.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "full"
+            }
+          },
+          {
+            "id": "32de06546fec6fb1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "教材/PDF/数字逻辑设计及应用.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "数字逻辑设计及应用"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "979c7541180bb34b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e9ff8fef18a3c10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记/数字逻辑与嵌入式系统/数字逻辑与嵌入式系统.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数字逻辑与嵌入式系统"
             }
           }
         ]
@@ -127,6 +164,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "笔记/数字逻辑与嵌入式系统/数字逻辑与嵌入式系统.md",
             "followCursor": true,
             "showSearch": false,
             "searchQuery": ""
@@ -146,14 +184,16 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "308429c46549ba33",
+  "active": "3e9ff8fef18a3c10",
   "lastOpenFiles": [
     "教材/PDF/数字逻辑设计及应用.pdf",
-    "教材/数字逻辑设计及应用/full.md",
     "笔记/数字逻辑与嵌入式系统/数字逻辑与嵌入式系统.md",
+    "教材/数字逻辑设计及应用/full.md",
+    "教材/数值计算方法与算法/full.md",
     "笔记/数字逻辑与嵌入式系统/images/二进制计数模块74x163.jpg",
     "教材/复变函数与积分变换/full.md",
     "笔记/复变函数/复变函数.md",
@@ -182,7 +222,6 @@
     "教材/PDF/大学物理学 下册.pdf",
     "教材/大学物理学 下册/full.md",
     "教材/PDF/images",
-    "教材/数值计算方法与算法/full.md",
     "笔记/数值计算方法/数值计算方法.md",
     "教材/概率论与数理统计/43029600-d6f1-4ecc-b6b3-7a2af67efe59_origin.pdf",
     "笔记/概率论与数理统计/images/Ink/Writing/2025.11.28 - 8.36am.writing",
