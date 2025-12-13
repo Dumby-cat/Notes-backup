@@ -33,8 +33,7 @@
               "title": "数字逻辑设计及应用"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "979c7541180bb34b",
@@ -165,7 +164,7 @@
           "type": "outline",
           "state": {
             "file": "笔记/数字逻辑与嵌入式系统/数字逻辑与嵌入式系统.md",
-            "followCursor": true,
+            "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
           },
@@ -190,9 +189,9 @@
   },
   "active": "3e9ff8fef18a3c10",
   "lastOpenFiles": [
-    "教材/PDF/数字逻辑设计及应用.pdf",
-    "笔记/数字逻辑与嵌入式系统/数字逻辑与嵌入式系统.md",
     "教材/数字逻辑设计及应用/full.md",
+    "笔记/数字逻辑与嵌入式系统/数字逻辑与嵌入式系统.md",
+    "教材/PDF/数字逻辑设计及应用.pdf",
     "教材/数值计算方法与算法/full.md",
     "笔记/数字逻辑与嵌入式系统/images/二进制计数模块74x163.jpg",
     "教材/复变函数与积分变换/full.md",
