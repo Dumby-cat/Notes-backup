@@ -164,7 +164,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "教材/PDF/数字逻辑设计及应用.pdf",
+            "file": "笔记/数字逻辑与嵌入式系统/数字逻辑与嵌入式系统.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -188,11 +188,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32de06546fec6fb1",
+  "active": "3e9ff8fef18a3c10",
   "lastOpenFiles": [
-    "教材/数字逻辑设计及应用/full.md",
-    "笔记/数字逻辑与嵌入式系统/数字逻辑与嵌入式系统.md",
     "教材/PDF/数字逻辑设计及应用.pdf",
+    "笔记/数字逻辑与嵌入式系统/数字逻辑与嵌入式系统.md",
+    "教材/数字逻辑设计及应用/full.md",
     "笔记/数字逻辑与嵌入式系统/images/移位寄存器并入结构.jpg",
     "教材/PDF/数值计算方法与算法.pdf",
     "笔记/数字逻辑与嵌入式系统/images/移位寄存器.jpg",
