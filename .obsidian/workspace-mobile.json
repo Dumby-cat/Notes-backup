@@ -164,8 +164,8 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "笔记/数字逻辑与嵌入式系统/数字逻辑与嵌入式系统.md",
-            "followCursor": false,
+            "file": "教材/PDF/数字逻辑设计及应用.pdf",
+            "followCursor": true,
             "showSearch": false,
             "searchQuery": ""
           },
@@ -188,11 +188,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e9ff8fef18a3c10",
+  "active": "32de06546fec6fb1",
   "lastOpenFiles": [
-    "教材/PDF/数字逻辑设计及应用.pdf",
     "笔记/数字逻辑与嵌入式系统/数字逻辑与嵌入式系统.md",
+    "教材/PDF/数字逻辑设计及应用.pdf",
+    "笔记/数字逻辑与嵌入式系统/images/Ink/Writing/2025.12.13 - 23.40pm.writing",
     "教材/数字逻辑设计及应用/full.md",
+    "笔记/数字逻辑与嵌入式系统/images/环形计数器.jpg",
+    "笔记/数字逻辑与嵌入式系统/images/74x194.jpg",
     "笔记/数字逻辑与嵌入式系统/images/移位寄存器并入结构.jpg",
     "教材/PDF/数值计算方法与算法.pdf",
     "笔记/数字逻辑与嵌入式系统/images/移位寄存器.jpg",
@@ -212,19 +215,16 @@
     "笔记/大学物理下/images/制冷机循环.jpg",
     "笔记/大学物理下/images/热机循环.jpg",
     "笔记/大学物理下/images/速率分布函数.jpg",
-    "笔记/大学物理下/images/热机.jpg",
     "().md",
     "笔记/信号与系统/信号与系统.md",
     "教材/信号与系统中文版前六章/full.md",
     "教材/信号与系统中文版后半部分/full.md",
     "教材/PDF/信号与系统 中文高清.pdf",
-    "笔记/数字逻辑与嵌入式系统/images/状态转移图.jpg",
     "教材/PDF/大学物理学 下册.pdf",
     "教材/大学物理学 下册/full.md",
     "教材/PDF/images",
     "笔记/数值计算方法/数值计算方法.md",
     "教材/概率论与数理统计/43029600-d6f1-4ecc-b6b3-7a2af67efe59_origin.pdf",
-    "笔记/概率论与数理统计/images/Ink/Writing/2025.11.28 - 8.36am.writing",
     "教材/信号与系统英文版前六章/full.md",
     "笔记/大物实验/大物实验.md",
     "未命名.canvas",
