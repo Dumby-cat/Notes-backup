@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d32979fff7b4dd3b",
+        "id": "e764fa1c88175a15",
         "type": "tabs",
         "children": [
           {
-            "id": "3e9ff8fef18a3c10",
+            "id": "196ce57a258899ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,7 +155,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e9ff8fef18a3c10",
+  "active": "196ce57a258899ff",
   "lastOpenFiles": [
     "教材/数字逻辑设计及应用/full.md",
     "笔记/数字逻辑与嵌入式系统/数字逻辑与嵌入式系统.md",
