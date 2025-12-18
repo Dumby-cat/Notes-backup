@@ -34,6 +34,52 @@
               "icon": "lucide-file",
               "title": "full"
             }
+          },
+          {
+            "id": "dcd7a5c0e9ce16e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "教材/信号与系统中文版后半部分/full.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "full"
+            }
+          },
+          {
+            "id": "28e7461dd0419ddd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "教材/PDF/信号与系统 中文高清.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "信号与系统 中文高清"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a6980283633b3de3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fe7fb06408fac3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记/信号与系统/信号与系统.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "信号与系统"
+            }
           }
         ]
       }
@@ -145,7 +191,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "笔记/数字逻辑与嵌入式系统/数字逻辑与嵌入式系统.md",
+            "file": "笔记/信号与系统/信号与系统.md",
             "followCursor": true,
             "showSearch": false,
             "searchQuery": ""
@@ -153,9 +199,19 @@
           "icon": "lucide-list",
           "title": "大纲"
         }
+      },
+      {
+        "id": "8aa968fa941e1079",
+        "type": "leaf",
+        "state": {
+          "type": "quiet-outline",
+          "state": {},
+          "icon": "lines-of-text",
+          "title": "Quiet Outline"
+        }
       }
     ],
-    "currentTab": 2
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,11 +225,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35905f0270a3bcbd",
+  "active": "6fe7fb06408fac3a",
   "lastOpenFiles": [
-    "笔记/数字逻辑与嵌入式系统/images/D锁存器时间参数.png",
-    "教材/数字逻辑设计及应用/full.md",
     "笔记/数字逻辑与嵌入式系统/数字逻辑与嵌入式系统.md",
+    "笔记/信号与系统/信号与系统.md",
+    "教材/数字逻辑设计及应用/full.md",
+    "教材/PDF/信号与系统 中文高清.pdf",
+    "教材/信号与系统中文版后半部分/full.md",
+    "笔记/数字逻辑与嵌入式系统/images/D锁存器时间参数.png",
     "教材/PDF/数字逻辑设计及应用.pdf",
     "笔记/数字逻辑与嵌入式系统/images/Ink/Writing/2025.12.13 - 23.40pm.writing",
     "笔记/数字逻辑与嵌入式系统/images/环形计数器.jpg",
@@ -196,12 +255,8 @@
     "笔记/大学物理下/images/卡诺循环.jpg",
     "笔记/大学物理下/images/制冷机循环.jpg",
     "笔记/大学物理下/images/热机循环.jpg",
-    "笔记/大学物理下/images/速率分布函数.jpg",
     "().md",
-    "笔记/信号与系统/信号与系统.md",
     "教材/信号与系统中文版前六章/full.md",
-    "教材/信号与系统中文版后半部分/full.md",
-    "教材/PDF/信号与系统 中文高清.pdf",
     "教材/PDF/大学物理学 下册.pdf",
     "教材/大学物理学 下册/full.md",
     "教材/PDF/images",
