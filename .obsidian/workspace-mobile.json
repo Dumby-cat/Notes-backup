@@ -6,7 +6,6 @@
       {
         "id": "e764fa1c88175a15",
         "type": "tabs",
-        "dimension": 49.82142857142857,
         "children": [
           {
             "id": "dcd7a5c0e9ce16e9",
@@ -33,15 +32,7 @@
               "icon": "lucide-file-text",
               "title": "信号与系统 中文高清"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "a6980283633b3de3",
-        "type": "tabs",
-        "dimension": 50.17857142857143,
-        "children": [
+          },
           {
             "id": "6fe7fb06408fac3a",
             "type": "leaf",
@@ -56,7 +47,8 @@
               "title": "信号与系统"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
