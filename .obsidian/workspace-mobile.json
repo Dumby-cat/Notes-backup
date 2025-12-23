@@ -32,7 +32,14 @@
               "icon": "lucide-file-text",
               "title": "信号与系统 中文高清"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b382899b7ca5bd26",
+        "type": "tabs",
+        "children": [
           {
             "id": "6fe7fb06408fac3a",
             "type": "leaf",
@@ -47,8 +54,7 @@
               "title": "信号与系统"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,13 +200,13 @@
   },
   "active": "6fe7fb06408fac3a",
   "lastOpenFiles": [
-    "教材/PDF/信号与系统 中文高清.pdf",
+    "笔记/复变函数/复变函数.md",
     "笔记/信号与系统/信号与系统.md",
+    "教材/PDF/信号与系统 中文高清.pdf",
     "教材/信号与系统中文版后半部分/full.md",
     "笔记/信号与系统/images/Pasted image 20251219181052.jpg",
     "教材/复变函数与积分变换/full.md",
     "教材/PDF/复变函数与积分变换.pdf",
-    "笔记/复变函数/复变函数.md",
     "笔记/数字逻辑与嵌入式系统/数字逻辑与嵌入式系统.md",
     "教材/数字逻辑设计及应用/full.md",
     "笔记/数字逻辑与嵌入式系统/images/D锁存器时间参数.png",
