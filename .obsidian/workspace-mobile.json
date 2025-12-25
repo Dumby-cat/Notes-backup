@@ -32,14 +32,7 @@
               "icon": "lucide-file-text",
               "title": "信号与系统 中文高清"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "b382899b7ca5bd26",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "6fe7fb06408fac3a",
             "type": "leaf",
@@ -54,7 +47,8 @@
               "title": "信号与系统"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
