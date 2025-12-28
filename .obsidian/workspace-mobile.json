@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "教材/PDF/信号与系统 中文高清.pdf",
+            "file": "笔记/信号与系统/信号与系统.md",
             "followCursor": true,
             "showSearch": false,
             "searchQuery": ""
@@ -192,10 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28e7461dd0419ddd",
+  "active": "6fe7fb06408fac3a",
   "lastOpenFiles": [
-    "笔记/信号与系统/信号与系统.md",
     "教材/PDF/信号与系统 中文高清.pdf",
+    "笔记/信号与系统/信号与系统.md",
     "笔记/复变函数/复变函数.md",
     "教材/信号与系统中文版后半部分/full.md",
     "笔记/信号与系统/images/Pasted image 20251219181052.jpg",
