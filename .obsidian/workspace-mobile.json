@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "数字逻辑与嵌入式系统"
             }
+          },
+          {
+            "id": "caa1f956b0e55964",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "教材/PDF/数字逻辑设计及应用.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "数字逻辑设计及应用"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,10 +178,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e2996ae8bdaefcb",
+  "active": "caa1f956b0e55964",
   "lastOpenFiles": [
-    "教材/数字逻辑设计及应用/full.md",
     "笔记/数字逻辑与嵌入式系统/数字逻辑与嵌入式系统.md",
+    "教材/PDF/数字逻辑设计及应用.pdf",
+    "教材/数字逻辑设计及应用/full.md",
     "笔记/概率论与数理统计/概率论与数理统计.md",
     "教材/PDF/概率论与数理统计.pdf",
     "教材/PDF/概率论与数理统计习题册.pdf",
@@ -180,7 +194,6 @@
     "教材/复变函数与积分变换/full.md",
     "教材/PDF/复变函数与积分变换.pdf",
     "笔记/数字逻辑与嵌入式系统/images/D锁存器时间参数.png",
-    "教材/PDF/数字逻辑设计及应用.pdf",
     "笔记/数字逻辑与嵌入式系统/images/Ink/Writing/2025.12.13 - 23.40pm.writing",
     "笔记/数字逻辑与嵌入式系统/images/环形计数器.jpg",
     "笔记/数字逻辑与嵌入式系统/images/74x194.jpg",
