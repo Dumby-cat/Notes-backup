@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "大学物理下"
             }
+          },
+          {
+            "id": "16f24b067d0b975e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "教材/PDF/复变函数与积分变换.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "复变函数与积分变换"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,9 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d1cb4c03d2c7c52",
+  "active": "16f24b067d0b975e",
   "lastOpenFiles": [
     "笔记/复变函数/复变函数.md",
+    "教材/PDF/复变函数与积分变换.pdf",
+    "笔记/大学物理下/大学物理下.md",
     "教材/数字逻辑设计及应用/full.md",
     "教材/PDF/数字逻辑设计及应用.pdf",
     "笔记/数字逻辑与嵌入式系统/数字逻辑与嵌入式系统.md",
@@ -195,7 +209,6 @@
     "笔记/信号与系统/信号与系统.md",
     "笔记/信号与系统/images/Pasted image 20251219181052.jpg",
     "教材/复变函数与积分变换/full.md",
-    "教材/PDF/复变函数与积分变换.pdf",
     "笔记/数字逻辑与嵌入式系统/images/D锁存器时间参数.png",
     "笔记/数字逻辑与嵌入式系统/images/Ink/Writing/2025.12.13 - 23.40pm.writing",
     "笔记/数字逻辑与嵌入式系统/images/环形计数器.jpg",
@@ -206,7 +219,6 @@
     "笔记/数字逻辑与嵌入式系统/images/二进制计数模块74x163.jpg",
     "笔记/数字逻辑与嵌入式系统/images/同步计数器.jpg",
     "教材/概率论与数理统计/full.md",
-    "笔记/大学物理下/大学物理下.md",
     "教材/大学物理学  上册/full.md",
     "教材/PDF/大学物理学  上册  第2版.pdf",
     "笔记/大学物理下/images/卡诺循环.jpg",
