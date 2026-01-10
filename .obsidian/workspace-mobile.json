@@ -20,8 +20,35 @@
               "icon": "lucide-file",
               "title": "大学物理下"
             }
+          },
+          {
+            "id": "f3b8acdb52816f70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记/数值计算方法/数值计算方法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数值计算方法"
+            }
+          },
+          {
+            "id": "ecabf041df8405ff",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "教材/PDF/数值计算方法与算法.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "数值计算方法与算法"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,9 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8927356b519f250c",
+  "active": "f3b8acdb52816f70",
   "lastOpenFiles": [
     "笔记/大学物理下/大学物理下.md",
+    "教材/PDF/数值计算方法与算法.pdf",
+    "笔记/数值计算方法/数值计算方法.md",
     "笔记/复变函数/复变函数.md",
     "教材/PDF/复变函数与积分变换.pdf",
     "教材/数字逻辑设计及应用/full.md",
@@ -187,7 +216,6 @@
     "笔记/数字逻辑与嵌入式系统/images/环形计数器.jpg",
     "笔记/数字逻辑与嵌入式系统/images/74x194.jpg",
     "笔记/数字逻辑与嵌入式系统/images/移位寄存器并入结构.jpg",
-    "教材/PDF/数值计算方法与算法.pdf",
     "笔记/数字逻辑与嵌入式系统/images/移位寄存器.jpg",
     "笔记/数字逻辑与嵌入式系统/images/二进制计数模块74x163.jpg",
     "笔记/数字逻辑与嵌入式系统/images/同步计数器.jpg",
@@ -201,7 +229,6 @@
     "教材/PDF/大学物理学 下册.pdf",
     "教材/大学物理学 下册/full.md",
     "教材/PDF/images",
-    "笔记/数值计算方法/数值计算方法.md",
     "教材/信号与系统英文版前六章/full.md",
     "笔记/大物实验/大物实验.md",
     "未命名.canvas",
