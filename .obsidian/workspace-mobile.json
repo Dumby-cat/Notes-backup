@@ -47,8 +47,7 @@
               "title": "数值计算方法与算法"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,11 +191,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3b8acdb52816f70",
+  "active": "8927356b519f250c",
   "lastOpenFiles": [
-    "笔记/大学物理下/大学物理下.md",
-    "教材/PDF/数值计算方法与算法.pdf",
     "笔记/数值计算方法/数值计算方法.md",
+    "教材/PDF/数值计算方法与算法.pdf",
+    "笔记/大学物理下/大学物理下.md",
     "笔记/复变函数/复变函数.md",
     "教材/PDF/复变函数与积分变换.pdf",
     "教材/数字逻辑设计及应用/full.md",
