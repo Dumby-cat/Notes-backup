@@ -4,47 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "8733a24d9c4773b8",
+        "id": "44c0fec36ed03bd4",
         "type": "tabs",
         "children": [
           {
-            "id": "8927356b519f250c",
+            "id": "045d5f01a826a6c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/大学物理下/大学物理下.md",
+                "file": "笔记/数电下：微嵌/微处理器系统结构及嵌入式系统设计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "大学物理下"
+              "title": "微处理器系统结构及嵌入式系统设计"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "cc3e52bf3254a296",
+        "type": "tabs",
+        "children": [
           {
-            "id": "f3b8acdb52816f70",
+            "id": "191ac0fe6c75e62a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/数值计算方法/数值计算方法.md",
+                "file": "教材/微处理器系统结构与嵌入式系统设计/full.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数值计算方法"
+              "title": "full"
             }
           },
           {
-            "id": "ecabf041df8405ff",
+            "id": "db7c8f1f13c1ee4c",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "教材/PDF/数值计算方法与算法.pdf"
+                "file": "教材/PDF/微处理器系统结构与嵌入式系统设计 第三版.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "数值计算方法与算法"
+              "title": "微处理器系统结构与嵌入式系统设计 第三版"
             }
           }
         ]
@@ -191,10 +197,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8927356b519f250c",
+  "active": "191ac0fe6c75e62a",
   "lastOpenFiles": [
-    "笔记/数值计算方法/数值计算方法.md",
+    "笔记/数电下：微嵌/微处理器系统结构及嵌入式系统设计.md",
+    "教材/PDF/微处理器系统结构与嵌入式系统设计 第三版.pdf",
+    "笔记/数电下：微嵌",
+    "教材/微处理器系统结构与嵌入式系统设计/full.md",
     "教材/PDF/数值计算方法与算法.pdf",
+    "笔记/数值计算方法/数值计算方法.md",
     "笔记/大学物理下/大学物理下.md",
     "笔记/复变函数/复变函数.md",
     "教材/PDF/复变函数与积分变换.pdf",
@@ -225,9 +235,7 @@
     "笔记/大学物理下/images/制冷机循环.jpg",
     "().md",
     "教材/信号与系统中文版前六章/full.md",
-    "教材/PDF/大学物理学 下册.pdf",
     "教材/大学物理学 下册/full.md",
-    "教材/PDF/images",
     "教材/信号与系统英文版前六章/full.md",
     "笔记/大物实验/大物实验.md",
     "未命名.canvas",
@@ -237,8 +245,6 @@
     "preamble.sty.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot-custom-prompts/Remove URLs.md",
-    "copilot-custom-prompts/Generate glossary.md",
     "Untitled.canvas"
   ]
 }
