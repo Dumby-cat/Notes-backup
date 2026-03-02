@@ -153,15 +153,15 @@
     ]
   },
   "笔记/复变函数/复变函数.md": {
-    "scroll": 286.74452622731525,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 515,
-        "ch": 9
+        "line": 0,
+        "ch": 7
       },
       "to": {
-        "line": 515,
-        "ch": 9
+        "line": 0,
+        "ch": 7
       }
     },
     "expandedKeys": [
@@ -364,6 +364,20 @@
       },
       "to": {
         "line": 1,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "笔记/数电下：微嵌/微处理器系统结构及嵌入式系统设计.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
         "ch": 0
       }
     },
