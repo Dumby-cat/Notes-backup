@@ -382,5 +382,53 @@
       }
     },
     "expandedKeys": []
+  },
+  "笔记/机械工程基础/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "教材/机械基础/full.md": {
+    "scroll": 209.16736600134107,
+    "cursor": {
+      "from": {
+        "line": 208,
+        "ch": 0
+      },
+      "to": {
+        "line": 210,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-4"
+    ]
+  },
+  "笔记/机械工程基础/机械工程基础.md": {
+    "scroll": 31.90398302070078,
+    "cursor": {
+      "from": {
+        "line": 36,
+        "ch": 0
+      },
+      "to": {
+        "line": 36,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-2-0",
+      "item-3-4",
+      "item-3-6"
+    ]
   }
 }
