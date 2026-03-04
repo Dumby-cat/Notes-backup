@@ -476,5 +476,50 @@
       }
     },
     "expandedKeys": []
+  },
+  "教材/传感器原理及应用/full.md": {
+    "scroll": 15.205726941426596,
+    "cursor": {
+      "from": {
+        "line": 21,
+        "ch": 96
+      },
+      "to": {
+        "line": 21,
+        "ch": 142
+      }
+    },
+    "expandedKeys": []
+  },
+  "笔记/传感器原理及应用/传感器原理及应用.md": {
+    "scroll": 0.7269047224223363,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 90
+      },
+      "to": {
+        "line": 5,
+        "ch": 90
+      }
+    },
+    "expandedKeys": [
+      "item-3-1",
+      "item-2-0"
+    ]
+  },
+  "笔记/大物实验/大物实验.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 0
+      },
+      "to": {
+        "line": 3,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }
