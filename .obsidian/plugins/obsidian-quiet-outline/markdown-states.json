@@ -414,14 +414,14 @@
     ]
   },
   "笔记/机械工程基础/机械工程基础.md": {
-    "scroll": 43.29788285844284,
+    "scroll": 11.3039,
     "cursor": {
       "from": {
-        "line": 49,
+        "line": 12,
         "ch": 0
       },
       "to": {
-        "line": 49,
+        "line": 12,
         "ch": 0
       }
     },
@@ -447,7 +447,21 @@
     "expandedKeys": []
   },
   "教材/自动控制原理/full.md": {
-    "scroll": 6.063437525431315,
+    "scroll": 6.079296906789144,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "教材/东方大学俄语/full.md": {
+    "scroll": 381.6874567708177,
     "cursor": {
       "from": {
         "line": 0,
