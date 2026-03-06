@@ -1,13 +1,13 @@
 {
   "笔记/信号与系统/信号与系统.md": {
-    "scroll": 728.0400528475134,
+    "scroll": 1099.3103076341915,
     "cursor": {
       "from": {
-        "line": 956,
+        "line": 1076,
         "ch": 0
       },
       "to": {
-        "line": 956,
+        "line": 1076,
         "ch": 0
       }
     },
@@ -51,15 +51,15 @@
     ]
   },
   "教材/信号与系统中文版后半部分/full.md": {
-    "scroll": 3287.1748956044516,
+    "scroll": 4293.281835635503,
     "cursor": {
       "from": {
-        "line": 3237,
-        "ch": 56
+        "line": 4265,
+        "ch": 0
       },
       "to": {
-        "line": 3237,
-        "ch": 102
+        "line": 4265,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -153,15 +153,15 @@
     ]
   },
   "笔记/复变函数/复变函数.md": {
-    "scroll": 0,
+    "scroll": 197.31651598491837,
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 7
+        "line": 202,
+        "ch": 0
       },
       "to": {
-        "line": 0,
-        "ch": 7
+        "line": 202,
+        "ch": 0
       }
     },
     "expandedKeys": [
@@ -356,7 +356,7 @@
     ]
   },
   "教材/微处理器系统结构与嵌入式系统设计/full.md": {
-    "scroll": 20.295911224683127,
+    "scroll": 26.205911326408387,
     "cursor": {
       "from": {
         "line": 1,
@@ -374,11 +374,11 @@
     "cursor": {
       "from": {
         "line": 0,
-        "ch": 0
+        "ch": 3
       },
       "to": {
         "line": 0,
-        "ch": 0
+        "ch": 3
       }
     },
     "expandedKeys": []
@@ -436,28 +436,31 @@
     ]
   },
   "笔记/控制理论上/控制理论.md": {
-    "scroll": 0,
+    "scroll": 12.885143169107927,
     "cursor": {
       "from": {
-        "line": 0,
+        "line": 24,
         "ch": 0
       },
       "to": {
-        "line": 0,
+        "line": 24,
         "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-2-0",
+      "item-3-1"
+    ]
   },
   "教材/自动控制原理/full.md": {
-    "scroll": 6.079296906789144,
+    "scroll": 366.99114449818927,
     "cursor": {
       "from": {
-        "line": 0,
+        "line": 374,
         "ch": 0
       },
       "to": {
-        "line": 0,
+        "line": 377,
         "ch": 0
       }
     },
@@ -478,34 +481,35 @@
     "expandedKeys": []
   },
   "教材/传感器原理及应用/full.md": {
-    "scroll": 127.02978072677541,
+    "scroll": 412.18150965372723,
     "cursor": {
       "from": {
-        "line": 115,
-        "ch": 74
+        "line": 375,
+        "ch": 0
       },
       "to": {
-        "line": 115,
-        "ch": 95
+        "line": 375,
+        "ch": 0
       }
     },
     "expandedKeys": []
   },
   "笔记/传感器原理及应用/传感器原理及应用.md": {
-    "scroll": 4.606510639190674,
+    "scroll": 70.2957461145189,
     "cursor": {
       "from": {
-        "line": 20,
+        "line": 80,
         "ch": 0
       },
       "to": {
-        "line": 20,
+        "line": 80,
         "ch": 0
       }
     },
     "expandedKeys": [
-      "item-3-1",
-      "item-2-0"
+      "item-2-0",
+      "item-4-3",
+      "item-3-2"
     ]
   },
   "笔记/大物实验/大物实验.md": {
@@ -517,6 +521,48 @@
       },
       "to": {
         "line": 3,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2026-03-05.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "教材/电力电子技术/full.md": {
+    "scroll": 385.00422034263613,
+    "cursor": {
+      "from": {
+        "line": 380,
+        "ch": 0
+      },
+      "to": {
+        "line": 380,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "笔记/电子电力技术基础/电子电力技术基础.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
         "ch": 0
       }
     },

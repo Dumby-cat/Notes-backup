@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7d5c941c3266f74d",
+        "id": "2b35b6c2f9cb6ddd",
         "type": "tabs",
         "children": [
           {
-            "id": "d61b9227949eea37",
+            "id": "ffa93e6f139a80be",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,27 +20,15 @@
               "icon": "lucide-file",
               "title": "full"
             }
-          },
-          {
-            "id": "a505e651f18d474f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "教材/PDF/传感器原理及应用 第2版.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "传感器原理及应用 第2版"
-            }
           }
         ]
       },
       {
-        "id": "a1689f7522727da6",
+        "id": "af1c5bf18b7ecee6",
         "type": "tabs",
         "children": [
           {
-            "id": "ac620dd43fde094d",
+            "id": "5d783a853c9c0e94",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -187,37 +175,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian42-brat:BRAT": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d61b9227949eea37",
+  "active": "ffa93e6f139a80be",
   "lastOpenFiles": [
     "笔记/传感器原理及应用/传感器原理及应用.md",
     "教材/传感器原理及应用/full.md",
-    "笔记/大物实验/大物实验.md",
-    "笔记/传感器原理及应用/images",
-    "笔记/传感器原理及应用/images/60f6b714c79b746c41ced11e941d2f826e91ccd6eca01e4f3c74808638dbb1e7.jpg",
     "教材/PDF/传感器原理及应用 第2版.pdf",
-    "笔记/传感器原理及应用",
-    "教材/机械基础/full.md",
-    "教材/PDF/机械基础 第4版_new.pdf",
-    "笔记/机械工程基础/机械工程基础.md",
-    "教材/东方大学俄语/full.md",
+    "教材/电力电子技术/full.md",
+    "教材/PDF/电力电子技术 (王兆安,刘进军).pdf",
+    "笔记/电子电力技术基础/电子电力技术基础.md",
+    "笔记/电子电力技术基础/images/微积分上(1).pdf",
+    "笔记/电子电力技术基础/images",
+    "笔记/电子电力技术基础",
+    "教材/微处理器系统结构与嵌入式系统设计/full.md",
+    "教材/PDF/微处理器系统结构与嵌入式系统设计 第三版.pdf",
+    "笔记/数电下：微嵌/微处理器系统结构及嵌入式系统设计.md",
     "教材/自动控制原理/full.md",
     "教材/PDF/自动控制原理.pdf",
     "笔记/控制理论上/控制理论.md",
-    "笔记/控制理论上/images/Ink/Writing/2026.3.3 - 11.28am.writing",
-    "笔记/控制理论上/images/Ink/Writing",
-    "笔记/控制理论上/images/Ink",
-    "笔记/控制理论上/images",
-    "笔记/控制理论上",
+    "笔记/信号与系统/信号与系统.md",
+    "教材/信号与系统中文版后半部分/full.md",
+    "笔记/复变函数/复变函数.md",
+    "教材/PDF/信号与系统 中文高清.pdf",
+    "笔记/微积分上.pdf",
+    "笔记/微积分下.pdf",
+    "2026-03-05.md",
+    "笔记/控制理论上/images/Pasted image 20260305104839.jpg",
+    "笔记/大物实验/大物实验.md",
+    "笔记/传感器原理及应用/images/60f6b714c79b746c41ced11e941d2f826e91ccd6eca01e4f3c74808638dbb1e7.jpg",
+    "教材/机械基础/full.md",
+    "笔记/机械工程基础/机械工程基础.md",
+    "教材/东方大学俄语/full.md",
     "笔记/机械工程基础/images/Pasted image 20260302201451.jpg",
     "笔记/机械工程基础/images/Pasted image 20260302200713.jpg",
     "笔记/机械工程基础/images/Pasted image 20260302170630.jpg",
@@ -225,26 +222,16 @@
     "笔记/机械工程基础/images/Pasted image 20260302172520.jpg",
     "笔记/机械工程基础/images/4bb812daa2103c0ec53e0235fb46375caa6ee21fac814ed3776648d3b9fcaacb.jpg",
     "笔记/机械工程基础/images/Pasted image 20260302170248.jpg",
-    "笔记/数电下：微嵌/微处理器系统结构及嵌入式系统设计.md",
-    "笔记/复变函数/复变函数.md",
-    "教材/微处理器系统结构与嵌入式系统设计/full.md",
     "笔记/数值计算方法/数值计算方法.md",
     "笔记/大学物理下/大学物理下.md",
     "教材/数字逻辑设计及应用/full.md",
     "笔记/数字逻辑与嵌入式系统/数字逻辑与嵌入式系统.md",
     "教材/数值计算方法与算法/full.md",
     "笔记/概率论与数理统计/概率论与数理统计.md",
-    "教材/信号与系统中文版后半部分/full.md",
-    "笔记/信号与系统/信号与系统.md",
     "笔记/信号与系统/images/Pasted image 20251219181052.jpg",
     "教材/复变函数与积分变换/full.md",
-    "笔记/数字逻辑与嵌入式系统/images/D锁存器时间参数.png",
     "教材/概率论与数理统计/full.md",
     "教材/大学物理学  上册/full.md",
-    "().md",
-    "教材/信号与系统中文版前六章/full.md",
-    "教材/大学物理学 下册/full.md",
-    "教材/信号与系统英文版前六章/full.md",
     "未命名.canvas",
     "Untitled.canvas"
   ]
