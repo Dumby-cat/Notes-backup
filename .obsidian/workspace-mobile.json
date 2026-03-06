@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "full"
             }
+          },
+          {
+            "id": "baf993b0c69f1ec6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "教材/PDF/传感器原理及应用 第2版.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "传感器原理及应用 第2版"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "af1c5bf18b7ecee6",
@@ -151,7 +164,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "笔记/数字逻辑与嵌入式系统/数字逻辑与嵌入式系统.md",
+            "file": "笔记/传感器原理及应用/传感器原理及应用.md",
             "followCursor": true,
             "showSearch": false,
             "searchQuery": ""
@@ -159,19 +172,9 @@
           "icon": "lucide-list",
           "title": "大纲"
         }
-      },
-      {
-        "id": "8aa968fa941e1079",
-        "type": "leaf",
-        "state": {
-          "type": "quiet-outline",
-          "state": {},
-          "icon": "lines-of-text",
-          "title": "Quiet Outline"
-        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,12 +190,14 @@
   },
   "active": "5d783a853c9c0e94",
   "lastOpenFiles": [
-    "教材/传感器原理及应用/full.md",
+    "教材/PDF/传感器原理及应用 第2版.pdf",
+    "笔记/传感器原理及应用/images/Pasted image 20260306152559.jpg",
     "笔记/传感器原理及应用/传感器原理及应用.md",
+    "教材/传感器原理及应用/full.md",
+    "笔记/传感器原理及应用/images/Pasted image 20260306150904.jpg",
     "笔记/电路分析.pdf",
     "笔记/电分.pdf",
     "教材/传感器原理及应用/images/电分.pdf",
-    "教材/PDF/传感器原理及应用 第2版.pdf",
     "教材/电力电子技术/full.md",
     "教材/PDF/电力电子技术 (王兆安,刘进军).pdf",
     "笔记/电子电力技术基础/电子电力技术基础.md",
@@ -221,14 +226,12 @@
     "笔记/机械工程基础/images/Pasted image 20260302171636.jpg",
     "笔记/机械工程基础/images/Pasted image 20260302172520.jpg",
     "笔记/机械工程基础/images/4bb812daa2103c0ec53e0235fb46375caa6ee21fac814ed3776648d3b9fcaacb.jpg",
-    "笔记/机械工程基础/images/Pasted image 20260302170248.jpg",
     "笔记/数值计算方法/数值计算方法.md",
     "笔记/大学物理下/大学物理下.md",
     "教材/数字逻辑设计及应用/full.md",
     "笔记/数字逻辑与嵌入式系统/数字逻辑与嵌入式系统.md",
     "教材/数值计算方法与算法/full.md",
     "笔记/概率论与数理统计/概率论与数理统计.md",
-    "笔记/信号与系统/images/Pasted image 20251219181052.jpg",
     "教材/复变函数与积分变换/full.md",
     "教材/概率论与数理统计/full.md",
     "教材/大学物理学  上册/full.md",

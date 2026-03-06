@@ -481,35 +481,36 @@
     "expandedKeys": []
   },
   "教材/传感器原理及应用/full.md": {
-    "scroll": 420.73333263397217,
+    "scroll": 411.57840092976886,
     "cursor": {
       "from": {
-        "line": 375,
+        "line": 413,
         "ch": 0
       },
       "to": {
-        "line": 375,
+        "line": 418,
         "ch": 0
       }
     },
     "expandedKeys": []
   },
   "笔记/传感器原理及应用/传感器原理及应用.md": {
-    "scroll": 75.57743014229669,
+    "scroll": 75.23420095443726,
     "cursor": {
       "from": {
-        "line": 81,
-        "ch": 6
+        "line": 86,
+        "ch": 0
       },
       "to": {
-        "line": 81,
-        "ch": 6
+        "line": 86,
+        "ch": 0
       }
     },
     "expandedKeys": [
       "item-2-0",
       "item-4-3",
-      "item-3-2"
+      "item-3-2",
+      "item-4-16"
     ]
   },
   "笔记/大物实验/大物实验.md": {

@@ -1,9 +1,7 @@
 [
-  "obsidian-latex",
-  "ink",
-  "quick-latex",
-  "obsidian-latex-suite",
+  "obsidian-git",
   "remember-cursor-position",
-  "obsidian-quiet-outline",
-  "obsidian-git"
+  "quick-latex",
+  "ink",
+  "obsidian-latex"
 ]
