@@ -4,54 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2b35b6c2f9cb6ddd",
+        "id": "0c67e3a9b95c8bc6",
         "type": "tabs",
         "children": [
           {
-            "id": "ffa93e6f139a80be",
+            "id": "f4ff20125e82d7c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "教材/传感器原理及应用/full.md",
+                "file": "笔记/机械工程基础/机械工程基础.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "full"
-            }
-          },
-          {
-            "id": "baf993b0c69f1ec6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "教材/PDF/传感器原理及应用 第2版.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "传感器原理及应用 第2版"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "af1c5bf18b7ecee6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5d783a853c9c0e94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "笔记/传感器原理及应用/传感器原理及应用.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "传感器原理及应用"
+              "title": "机械工程基础"
             }
           }
         ]
@@ -164,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "笔记/传感器原理及应用/传感器原理及应用.md",
+            "file": "笔记/机械工程基础/机械工程基础.md",
             "followCursor": true,
             "showSearch": false,
             "searchQuery": ""
@@ -188,19 +155,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d783a853c9c0e94",
+  "active": "f4ff20125e82d7c8",
   "lastOpenFiles": [
-    "教材/PDF/传感器原理及应用 第2版.pdf",
-    "笔记/传感器原理及应用/images/Pasted image 20260306152559.jpg",
-    "笔记/传感器原理及应用/传感器原理及应用.md",
+    "教材/信号与系统中文版后半部分/full.md",
+    "教材/PDF/信号与系统 中文高清.pdf",
+    "笔记/信号与系统/信号与系统.md",
+    "教材/PDF/images/Pasted image 20260307140724.jpg",
+    "笔记/控制理论上/控制理论.md",
+    "笔记/机械工程基础/机械工程基础.md",
+    "笔记/电子电力技术基础/电子电力技术基础.md",
     "教材/传感器原理及应用/full.md",
+    "教材/PDF/传感器原理及应用 第2版.pdf",
+    "笔记/传感器原理及应用/传感器原理及应用.md",
+    "笔记/传感器原理及应用/images/Pasted image 20260306152559.jpg",
     "笔记/传感器原理及应用/images/Pasted image 20260306150904.jpg",
     "笔记/电路分析.pdf",
     "笔记/电分.pdf",
     "教材/传感器原理及应用/images/电分.pdf",
     "教材/电力电子技术/full.md",
     "教材/PDF/电力电子技术 (王兆安,刘进军).pdf",
-    "笔记/电子电力技术基础/电子电力技术基础.md",
     "笔记/电子电力技术基础/images/微积分上(1).pdf",
     "笔记/电子电力技术基础/images",
     "笔记/电子电力技术基础",
@@ -208,24 +181,18 @@
     "教材/PDF/微处理器系统结构与嵌入式系统设计 第三版.pdf",
     "笔记/数电下：微嵌/微处理器系统结构及嵌入式系统设计.md",
     "教材/自动控制原理/full.md",
-    "教材/PDF/自动控制原理.pdf",
-    "笔记/控制理论上/控制理论.md",
-    "笔记/信号与系统/信号与系统.md",
-    "教材/信号与系统中文版后半部分/full.md",
     "笔记/复变函数/复变函数.md",
     "2026-03-05.md",
     "笔记/控制理论上/images/Pasted image 20260305104839.jpg",
     "笔记/大物实验/大物实验.md",
     "笔记/传感器原理及应用/images/60f6b714c79b746c41ced11e941d2f826e91ccd6eca01e4f3c74808638dbb1e7.jpg",
     "教材/机械基础/full.md",
-    "笔记/机械工程基础/机械工程基础.md",
     "教材/东方大学俄语/full.md",
     "笔记/机械工程基础/images/Pasted image 20260302201451.jpg",
     "笔记/机械工程基础/images/Pasted image 20260302200713.jpg",
     "笔记/机械工程基础/images/Pasted image 20260302170630.jpg",
     "笔记/机械工程基础/images/Pasted image 20260302171636.jpg",
     "笔记/机械工程基础/images/Pasted image 20260302172520.jpg",
-    "笔记/机械工程基础/images/4bb812daa2103c0ec53e0235fb46375caa6ee21fac814ed3776648d3b9fcaacb.jpg",
     "笔记/数值计算方法/数值计算方法.md",
     "笔记/大学物理下/大学物理下.md",
     "教材/数字逻辑设计及应用/full.md",
