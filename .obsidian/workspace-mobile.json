@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "098bb953c1a18fd0",
+        "id": "0c5407cc10fccacf",
         "type": "tabs",
         "children": [
           {
-            "id": "2c6b45f47b0da2b6",
+            "id": "73e3271fdb87649f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "教材/PDF/机械基础 第4版_new.pdf",
+            "file": "教材/PDF/微处理器系统结构与嵌入式系统设计 第三版.pdf",
             "followCursor": true,
             "showSearch": false,
             "searchQuery": ""
@@ -151,8 +151,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c6b45f47b0da2b6",
+  "active": "73e3271fdb87649f",
   "lastOpenFiles": [
+    "教材/微处理器系统结构与嵌入式系统设计/full.md",
+    "教材/PDF/微处理器系统结构与嵌入式系统设计 第三版.pdf",
+    "笔记/数电下：微嵌/微处理器系统结构及嵌入式系统设计.md",
+    "笔记/数电下：微嵌/images/Pasted image 20260309103610.jpg",
+    "笔记/数电下：微嵌/images",
     "笔记/机械工程基础/机械工程基础.md",
     "教材/机械基础/full.md",
     "教材/PDF/机械基础 第4版_new.pdf",
@@ -173,10 +178,6 @@
     "教材/电力电子技术/full.md",
     "教材/PDF/电力电子技术 (王兆安,刘进军).pdf",
     "笔记/电子电力技术基础/images/微积分上(1).pdf",
-    "笔记/电子电力技术基础/images",
-    "笔记/电子电力技术基础",
-    "教材/微处理器系统结构与嵌入式系统设计/full.md",
-    "笔记/数电下：微嵌/微处理器系统结构及嵌入式系统设计.md",
     "教材/自动控制原理/full.md",
     "笔记/复变函数/复变函数.md",
     "2026-03-05.md",
@@ -188,7 +189,6 @@
     "笔记/机械工程基础/images/Pasted image 20260302200713.jpg",
     "笔记/机械工程基础/images/Pasted image 20260302170630.jpg",
     "笔记/机械工程基础/images/Pasted image 20260302171636.jpg",
-    "笔记/机械工程基础/images/Pasted image 20260302172520.jpg",
     "笔记/数值计算方法/数值计算方法.md",
     "笔记/大学物理下/大学物理下.md",
     "教材/数字逻辑设计及应用/full.md",
