@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0c5407cc10fccacf",
+        "id": "fb3206c1606d99d3",
         "type": "tabs",
         "children": [
           {
-            "id": "73e3271fdb87649f",
+            "id": "902e011b416c7178",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "教材/PDF/微处理器系统结构与嵌入式系统设计 第三版.pdf",
+            "file": "教材/PDF/机械基础 第4版_new.pdf",
             "followCursor": true,
             "showSearch": false,
             "searchQuery": ""
@@ -151,16 +151,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73e3271fdb87649f",
+  "active": "902e011b416c7178",
   "lastOpenFiles": [
+    "教材/机械基础/full.md",
+    "教材/PDF/机械基础 第4版_new.pdf",
+    "笔记/机械工程基础/机械工程基础.md",
     "教材/微处理器系统结构与嵌入式系统设计/full.md",
     "教材/PDF/微处理器系统结构与嵌入式系统设计 第三版.pdf",
     "笔记/数电下：微嵌/微处理器系统结构及嵌入式系统设计.md",
     "笔记/数电下：微嵌/images/Pasted image 20260309103610.jpg",
     "笔记/数电下：微嵌/images",
-    "笔记/机械工程基础/机械工程基础.md",
-    "教材/机械基础/full.md",
-    "教材/PDF/机械基础 第4版_new.pdf",
     "教材/信号与系统中文版后半部分/full.md",
     "教材/PDF/信号与系统 中文高清.pdf",
     "笔记/信号与系统/信号与系统.md",
