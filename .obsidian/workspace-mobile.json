@@ -33,8 +33,7 @@
               "title": "传感器原理及应用 第2版"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "619ea53dd7cc7f76",
@@ -164,7 +163,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "教材/PDF/传感器原理及应用 第2版.pdf",
+            "file": "笔记/传感器原理及应用/传感器原理及应用.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -188,11 +187,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "417b9d199f16eb37",
+  "active": "9ea8b6bf2ec20523",
   "lastOpenFiles": [
+    "笔记/传感器原理及应用/images/Pasted image 20260313151545.jpg",
     "教材/传感器原理及应用/full.md",
     "笔记/传感器原理及应用/传感器原理及应用.md",
     "教材/PDF/传感器原理及应用 第2版.pdf",
+    "笔记/传感器原理及应用/images/Pasted image 20260313143849.jpg",
+    "笔记/传感器原理及应用/images/Pasted image 20260313143112.jpg",
     "笔记/传感器原理及应用/images/Pasted image 20260313114735.jpg",
     "教材/电力电子技术/full.md",
     "教材/PDF/电力电子技术 (王兆安,刘进军).pdf",
@@ -223,8 +225,6 @@
     "笔记/机械工程基础/机械工程基础.md",
     "笔记/数电下：微嵌/images/Pasted image 20260309103610.jpg",
     "教材/信号与系统中文版后半部分/full.md",
-    "教材/PDF/images/Pasted image 20260307140724.jpg",
-    "笔记/传感器原理及应用/images/Pasted image 20260306152559.jpg",
     "笔记/复变函数/复变函数.md",
     "2026-03-05.md",
     "笔记/大物实验/大物实验.md",
