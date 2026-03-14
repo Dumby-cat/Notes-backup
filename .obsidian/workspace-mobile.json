@@ -4,53 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7f42fc9125bde1ec",
+        "id": "0678ba6f2dfbccef",
         "type": "tabs",
         "children": [
           {
-            "id": "1073dad895239ddc",
+            "id": "84806312834b1577",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "教材/传感器原理及应用/full.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "full"
-            }
-          },
-          {
-            "id": "417b9d199f16eb37",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "教材/PDF/传感器原理及应用 第2版.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "传感器原理及应用 第2版"
-            }
-          }
-        ]
-      },
-      {
-        "id": "619ea53dd7cc7f76",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9ea8b6bf2ec20523",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "笔记/传感器原理及应用/传感器原理及应用.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "传感器原理及应用"
+              "title": "新标签页"
             }
           }
         ]
@@ -163,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "笔记/传感器原理及应用/传感器原理及应用.md",
+            "file": "教材/传感器原理及应用/full.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -187,12 +151,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ea8b6bf2ec20523",
+  "active": "84806312834b1577",
   "lastOpenFiles": [
-    "笔记/传感器原理及应用/images/Pasted image 20260313151545.jpg",
+    "教材/PDF/传感器原理及应用 第2版.pdf",
     "教材/传感器原理及应用/full.md",
     "笔记/传感器原理及应用/传感器原理及应用.md",
-    "教材/PDF/传感器原理及应用 第2版.pdf",
+    "笔记/传感器原理及应用/images/Pasted image 20260313151545.jpg",
     "笔记/传感器原理及应用/images/Pasted image 20260313143849.jpg",
     "笔记/传感器原理及应用/images/Pasted image 20260313143112.jpg",
     "笔记/传感器原理及应用/images/Pasted image 20260313114735.jpg",
@@ -223,7 +187,6 @@
     "笔记/信号与系统/信号与系统 1.md",
     "笔记/信号与系统/信号与系统/第九章：拉普拉斯变换/单边拉普拉斯变换.md",
     "笔记/机械工程基础/机械工程基础.md",
-    "笔记/数电下：微嵌/images/Pasted image 20260309103610.jpg",
     "教材/信号与系统中文版后半部分/full.md",
     "笔记/复变函数/复变函数.md",
     "2026-03-05.md",
