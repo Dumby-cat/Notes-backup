@@ -25,10 +25,12 @@
             "id": "15488e0a39726bf6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "pdf",
+              "state": {
+                "file": "教材/PDF/机械基础 第4版_new.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "机械基础 第4版_new"
             }
           }
         ],
@@ -169,6 +171,7 @@
   "active": "15488e0a39726bf6",
   "lastOpenFiles": [
     "笔记/机械工程基础/机械工程基础.md",
+    "教材/PDF/机械基础 第4版_new.pdf",
     "教材/PDF/传感器原理及应用 第2版.pdf",
     "教材/传感器原理及应用/full.md",
     "笔记/传感器原理及应用/传感器原理及应用.md",
@@ -193,7 +196,6 @@
     "教材/自动控制原理/自动控制原理第二章1.pdf",
     "笔记/传感器原理及应用/images/Pasted image 20260311200655.jpg",
     "教材/机械基础/full.md",
-    "教材/PDF/机械基础 第4版_new.pdf",
     "教材/PDF/自动控制原理.pdf",
     "笔记/电路分析.pdf",
     "教材/自动控制原理/自控原理-第1章-绪论.pdf",
