@@ -57,8 +57,7 @@
               "title": "A Ch03_3.1-3.2 温敏传感器"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "75e431872152e834",
@@ -202,7 +201,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "笔记/传感器原理及应用/传感器原理及应用.md",
+            "file": "教材/传感器原理及应用/full.md",
             "followCursor": true,
             "showSearch": false,
             "searchQuery": ""
@@ -228,10 +227,10 @@
   },
   "active": "470f8d00a541cb13",
   "lastOpenFiles": [
-    "教材/传感器原理及应用/A Ch01 绪论 .pdf",
-    "笔记/传感器原理及应用/传感器原理及应用.md",
-    "教材/PDF/传感器原理及应用 第2版.pdf",
     "教材/传感器原理及应用/full.md",
+    "教材/PDF/传感器原理及应用 第2版.pdf",
+    "笔记/传感器原理及应用/传感器原理及应用.md",
+    "教材/传感器原理及应用/A Ch01 绪论 .pdf",
     "笔记/控制理论上/控制理论.md",
     "笔记/传感器原理及应用/images/Pasted image 20260325174333.jpg",
     "教材/传感器原理及应用/A Ch03_3.1-3.2 温敏传感器.pdf",
