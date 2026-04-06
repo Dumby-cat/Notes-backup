@@ -58,9 +58,19 @@
               "icon": "lucide-file",
               "title": "full"
             }
+          },
+          {
+            "id": "0469f9abd57f1bb7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "75e431872152e834",
@@ -206,7 +216,7 @@
           "type": "outline",
           "state": {
             "file": "笔记/控制理论上/控制理论.md",
-            "followCursor": false,
+            "followCursor": true,
             "showSearch": false,
             "searchQuery": ""
           },
@@ -231,17 +241,19 @@
   },
   "active": "b1a204a84fe12357",
   "lastOpenFiles": [
+    "笔记/控制理论上/images/clip6002621861775397111407.htm",
     "教材/自动控制原理/full.md",
+    "教材/自动控制原理/控制理论第三章-群文件/自动控制原理第三章 3 (1).pdf",
     "笔记/控制理论上/控制理论.md",
+    "笔记/控制理论上/images/Pasted image 20260405213324.jpg",
+    "教材/传感器原理及应用/A Ch01 绪论 .pdf",
     "笔记/控制理论上/images/Pasted image 20260402113934.jpg",
     "笔记/控制理论上/images/Pasted image 20260402113709.jpg",
     "笔记/控制理论上/images/Pasted image 20260402113343.png",
     "教材/自动控制原理/控制理论第三章-群文件/自动控制原理第三章1.pdf",
     "笔记/传感器原理及应用/传感器原理及应用.md",
-    "教材/传感器原理及应用/A Ch01 绪论 .pdf",
     "教材/自动控制原理/控制理论第三章-群文件/自动控制原理第三章5 (1).pdf",
     "教材/自动控制原理/控制理论第三章-群文件/自动控制原理第三章 4.ppt",
-    "教材/自动控制原理/控制理论第三章-群文件/自动控制原理第三章 3 (1).pdf",
     "教材/自动控制原理/控制理论第三章-群文件/自动控制原理第三章 2.ppt",
     "教材/自动控制原理/控制理论第三章-群文件",
     "教材/PDF/传感器原理及应用 第2版.pdf",
@@ -255,7 +267,6 @@
     "笔记/电力电子技术基础/images/Pasted image 20260325114107.jpg",
     "笔记/电力电子技术基础/images/Pasted image 20260325102429.jpg",
     "笔记/电力电子技术基础/images/Pasted image 20260325093537.jpg",
-    "笔记/控制理论上/images/Pasted image 20260324110111.png",
     "教材/电力电子技术/full.md",
     "笔记/信号与系统/信号与系统.md",
     "教材/机械基础/full.md",
