@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "full"
             }
-          },
-          {
-            "id": "0eed3af4164219a8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "教材/自动控制原理/控制理论第三章-群文件/自动控制原理第三章5 (1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "自动控制原理第三章5 (1)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "75e431872152e834",
@@ -217,10 +204,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0eed3af4164219a8",
+  "active": "b1a204a84fe12357",
   "lastOpenFiles": [
-    "笔记/控制理论上/控制理论.md",
     "教材/自动控制原理/控制理论第三章-群文件/自动控制原理第三章5 (1).pdf",
+    "笔记/控制理论上/控制理论.md",
     "笔记/控制理论上/images/Pasted image 20260421114015.jpg",
     "笔记/控制理论上/images/Pasted image 20260421113406.jpg",
     "教材/自动控制原理/full.md",
