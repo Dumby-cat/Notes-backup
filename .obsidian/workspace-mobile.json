@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "964bd0a7d67d2d1b",
+            "id": "aa626839ae41ca84",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "教材/自动控制原理/第四章/4-3 根轨迹的绘制.pdf"
+                "file": "教材/自动控制原理/第四章/4-4 广义根轨迹.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "4-3 根轨迹的绘制"
+              "title": "4-4 广义根轨迹"
             }
           }
         ]
@@ -163,7 +163,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "教材/自动控制原理/第四章/4-3 根轨迹的绘制.pdf",
+            "file": "笔记/控制理论上/控制理论.md",
             "followCursor": true,
             "showSearch": false,
             "searchQuery": ""
@@ -187,8 +187,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "964bd0a7d67d2d1b",
+  "active": "b1a204a84fe12357",
   "lastOpenFiles": [
+    "教材/自动控制原理/第四章/4-4 广义根轨迹.pdf",
     "笔记/控制理论上/控制理论.md",
     "教材/自动控制原理/第四章/4-3 根轨迹的绘制.pdf",
     "教材/自动控制原理/第三章/自动控制原理第三章5 (1).pdf",
@@ -199,7 +200,6 @@
     "教材/自动控制原理/第三章",
     "教材/自动控制原理/第二章/自动控制原理第二章1.pdf",
     "教材/自动控制原理/第二章/自动控制原理第二章 3.ppt",
-    "教材/自动控制原理/第二章/自动控制原理第二章2.ppt",
     "教材/自动控制原理/full.md",
     "笔记/控制理论上/images/Pasted image 20260421114015.jpg",
     "笔记/控制理论上/images/Pasted image 20260421113406.jpg",
