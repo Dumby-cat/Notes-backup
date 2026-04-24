@@ -163,7 +163,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "笔记/控制理论上/控制理论.md",
+            "file": "教材/自动控制原理/第四章/4-4 广义根轨迹.pdf",
             "followCursor": true,
             "showSearch": false,
             "searchQuery": ""
@@ -187,10 +187,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b1a204a84fe12357",
+  "active": "aa626839ae41ca84",
   "lastOpenFiles": [
-    "教材/自动控制原理/第四章/4-4 广义根轨迹.pdf",
     "笔记/控制理论上/控制理论.md",
+    "教材/自动控制原理/第四章/4-4 广义根轨迹.pdf",
     "教材/自动控制原理/第四章/4-3 根轨迹的绘制.pdf",
     "教材/自动控制原理/第三章/自动控制原理第三章5 (1).pdf",
     "教材/自动控制原理/第三章/自动控制原理第三章1.pdf",
