@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "6b8e2797b698a5ff",
+            "id": "4eb41bc9f2f57e49",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +35,7 @@
               "title": "信号与系统"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "教材/自动控制原理/第四章/4-5  系统性能的分析.pdf",
+            "file": "笔记/控制理论上/控制理论.md",
             "followCursor": true,
             "showSearch": false,
             "searchQuery": ""
@@ -170,10 +169,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b8e2797b698a5ff",
+  "active": "b1a204a84fe12357",
   "lastOpenFiles": [
-    "笔记/控制理论上/控制理论.md",
     "笔记/信号与系统/信号与系统.md",
+    "笔记/控制理论上/控制理论.md",
     "教材/自动控制原理/第四章/4-5  系统性能的分析.pdf",
     "教材/自动控制原理/第四章/4-4 广义根轨迹.pdf",
     "笔记/机械工程基础/机械工程基础.md",
