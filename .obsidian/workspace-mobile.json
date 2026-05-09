@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "cd6c735c112f59bf",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "教材/自动控制原理/第三章/自动控制原理第三章5 (1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "自动控制原理第三章5 (1)"
-            }
-          },
-          {
             "id": "19ef87aca3efc7d8",
             "type": "leaf",
             "state": {
@@ -46,9 +34,21 @@
               "icon": "lucide-file",
               "title": "控制理论"
             }
+          },
+          {
+            "id": "d2189c28c3451353",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "教材/自动控制原理/第四章/4-2根轨迹的基本规则.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "4-2根轨迹的基本规则"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "教材/自动控制原理/第三章/自动控制原理第三章5 (1).pdf",
+            "file": "教材/自动控制原理/第四章/4-2根轨迹的基本规则.pdf",
             "followCursor": true,
             "showSearch": false,
             "searchQuery": ""
@@ -182,9 +182,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd6c735c112f59bf",
+  "active": "d2189c28c3451353",
   "lastOpenFiles": [
     "笔记/控制理论上/控制理论.md",
+    "教材/自动控制原理/第四章/4-2根轨迹的基本规则.pdf",
     "教材/自动控制原理/第三章/自动控制原理第三章5 (1).pdf",
     "笔记/信号与系统/信号与系统.md",
     "教材/自动控制原理/full.md",
@@ -194,7 +195,6 @@
     "教材/PDF/电力电子技术 (王兆安,刘进军).pdf",
     "教材/PDF/微处理器系统结构与嵌入式系统设计 第三版.pdf",
     "教材/自动控制原理/第四章/4-3 根轨迹的绘制.pdf",
-    "教材/自动控制原理/第四章/4-2根轨迹的基本规则.pdf",
     "教材/自动控制原理/第四章/4-5  系统性能的分析.pdf",
     "笔记/机械工程基础/机械工程基础.md",
     "教材/自动控制原理/第三章/自动控制原理第三章 4.ppt",
