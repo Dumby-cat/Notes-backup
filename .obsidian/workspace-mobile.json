@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "控制理论"
             }
+          },
+          {
+            "id": "6be437b06ee99fc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "教材/微处理器系统结构与嵌入式系统设计/full.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "full"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +160,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "笔记/控制理论上/控制理论.md",
+            "file": "笔记/信号与系统/信号与系统.md",
             "followCursor": true,
             "showSearch": false,
             "searchQuery": ""
@@ -170,11 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19ef87aca3efc7d8",
+  "active": "6be437b06ee99fc4",
   "lastOpenFiles": [
-    "教材/自动控制原理/第二章/自动控制原理第二章1.pdf",
     "笔记/信号与系统/信号与系统.md",
     "笔记/控制理论上/控制理论.md",
+    "教材/自动控制原理/第二章/自动控制原理第二章1.pdf",
     "教材/自动控制原理/第四章/4-5  系统性能的分析.pdf",
     "教材/自动控制原理/第四章/4-4 广义根轨迹.pdf",
     "教材/自动控制原理/第四章/4-3 根轨迹的绘制.pdf",
