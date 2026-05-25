@@ -36,17 +36,15 @@
             }
           },
           {
-            "id": "6be437b06ee99fc4",
+            "id": "3966a33d917e3ae8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "教材/微处理器系统结构与嵌入式系统设计/full.md",
-                "mode": "source",
-                "source": false
+                "file": "教材/PDF/大学物理学学习指导 .pdf"
               },
-              "icon": "lucide-file",
-              "title": "full"
+              "icon": "lucide-file-text",
+              "title": "大学物理学学习指导"
             }
           }
         ],
@@ -184,10 +182,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6be437b06ee99fc4",
+  "active": "3966a33d917e3ae8",
   "lastOpenFiles": [
-    "笔记/信号与系统/信号与系统.md",
     "笔记/控制理论上/控制理论.md",
+    "教材/微处理器系统结构与嵌入式系统设计/full.md",
+    "笔记/信号与系统/信号与系统.md",
     "教材/自动控制原理/第二章/自动控制原理第二章1.pdf",
     "教材/自动控制原理/第四章/4-5  系统性能的分析.pdf",
     "教材/自动控制原理/第四章/4-4 广义根轨迹.pdf",
@@ -216,7 +215,6 @@
     "教材/电力电子技术/full.md",
     "教材/机械基础/full.md",
     "笔记/数电下：微嵌/微处理器系统结构及嵌入式系统设计.md",
-    "教材/微处理器系统结构与嵌入式系统设计/full.md",
     "笔记/数字逻辑与嵌入式系统/数字逻辑与嵌入式系统.md",
     "笔记/信号与系统/信号与系统 1.md",
     "笔记/信号与系统/信号与系统/第九章：拉普拉斯变换/单边拉普拉斯变换.md",
