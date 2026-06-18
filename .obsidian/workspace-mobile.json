@@ -34,37 +34,24 @@
             }
           },
           {
-            "id": "ff2b87ef5b31cfae",
+            "id": "7d5ce1fe8c307459",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "教材/PDF/东方大学俄语.pdf"
+                "file": "教材/传感器原理及应用/A Ch03_3.1-3.2 温敏传感器.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "东方大学俄语"
+              "title": "A Ch03_3.1-3.2 温敏传感器"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "75e431872152e834",
         "type": "tabs",
         "children": [
-          {
-            "id": "04f7d65eb9cad1a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "笔记/信号与系统/信号与系统.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "信号与系统"
-            }
-          },
           {
             "id": "19ef87aca3efc7d8",
             "type": "leaf",
@@ -77,6 +64,20 @@
               },
               "icon": "lucide-file",
               "title": "控制理论"
+            }
+          },
+          {
+            "id": "22942cc35809b6aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记/传感器原理及应用/传感器原理及应用.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "传感器原理及应用"
             }
           }
         ],
@@ -190,7 +191,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "笔记/控制理论上/控制理论.md",
+            "file": "教材/传感器原理及应用/A Ch03_3.1-3.2 温敏传感器.pdf",
             "followCursor": true,
             "showSearch": false,
             "searchQuery": ""
@@ -214,10 +215,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19ef87aca3efc7d8",
+  "active": "7d5ce1fe8c307459",
   "lastOpenFiles": [
-    "教材/自动控制原理/第五章到第八章/第五章 频域分析.pdf",
+    "笔记/传感器原理及应用/传感器原理及应用.md",
+    "教材/传感器原理及应用/A Ch03_3.1-3.2 温敏传感器.pdf",
+    "教材/传感器原理及应用/A Ch04_4.2 压电式力敏传感器.pdf",
+    "教材/传感器原理及应用/A Ch03_3.3-3.4 温敏传感器.pdf",
+    "教材/传感器原理及应用/A Ch04_4.1 应变式电阻传感器.pdf",
     "笔记/控制理论上/控制理论.md",
+    "教材/自动控制原理/第五章到第八章/第五章 频域分析.pdf",
     "笔记/控制理论上/images/Pasted image 20260617095702.jpg",
     "教材/自动控制原理/full.md",
     "教材/PDF/东方大学俄语.pdf",
@@ -225,12 +231,8 @@
     "教材/自动控制原理/第五章到第八章/第7章 采样控制系统系统.pdf",
     "教材/自动控制原理/第五章到第八章/第8章 非线性系统.pdf",
     "教材/自动控制原理/第五章到第八章",
-    "教材/PDF/微处理器系统结构与嵌入式系统设计 第三版.pdf",
-    "教材/PDF/大学物理学学习指导 .pdf",
     "教材/微处理器系统结构与嵌入式系统设计/full.md",
     "笔记/信号与系统/信号与系统.md",
-    "教材/自动控制原理/第二章/自动控制原理第二章1.pdf",
-    "教材/自动控制原理/第四章/4-5  系统性能的分析.pdf",
     "笔记/机械工程基础/机械工程基础.md",
     "笔记/控制理论上/images/Pasted image 20260421114015.jpg",
     "笔记/控制理论上/images/Pasted image 20260421113406.jpg",
@@ -241,7 +243,6 @@
     "笔记/控制理论上/images/Pasted image 20260402113934.jpg",
     "笔记/控制理论上/images/Pasted image 20260402113709.jpg",
     "笔记/控制理论上/images/Pasted image 20260402113343.png",
-    "笔记/传感器原理及应用/传感器原理及应用.md",
     "笔记/传感器原理及应用/images/Pasted image 20260325174333.jpg",
     "笔记/电力电子技术基础/电力电子技术基础.md",
     "教材/电力电子技术/full.md",
