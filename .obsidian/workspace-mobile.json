@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6c72209ab09e03b4",
+            "id": "49743eccbe60c045",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -24,7 +24,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b64033e13afde6a",
+            "id": "0935b6db538ac55f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -166,8 +166,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c72209ab09e03b4",
+  "active": "49743eccbe60c045",
   "lastOpenFiles": [
+    "教材/计算机控制系统part1/full.md",
+    "教材/PDF/计算机控制系统.pdf",
+    "笔记/计算机控制系统/计算机控制系统.md",
+    "笔记/计算机控制系统",
     "教材/PDF/现代控制理论_adjusted_color.pdf",
     "笔记/控制理论下/控制理论下.md",
     "笔记/信号与系统/信号与系统.md",
@@ -189,9 +193,7 @@
     "笔记/电机拖动/images/Pasted image 20260901154632.png",
     "笔记/电机拖动/images/Pasted image 20260901152751.png",
     "笔记/电机拖动/images",
-    "笔记/电机拖动",
     "教材/自动控制原理/full.md",
-    "教材/自动控制原理/第五章到第八章/第五章 频域分析.pdf",
     "笔记/传感器原理及应用/传感器原理及应用.md",
     "笔记/传感器原理及应用/images/Pasted image 20260618154105.jpg",
     "笔记/控制理论上/images/Pasted image 20260617095702.jpg",
@@ -211,8 +213,6 @@
     "笔记/复变函数/复变函数.md",
     "2026-03-05.md",
     "笔记/大物实验/大物实验.md",
-    "教材/东方大学俄语/full.md",
-    "笔记/数值计算方法/数值计算方法.md",
     "未命名.canvas",
     "Untitled.canvas"
   ]
