@@ -11,13 +11,30 @@
             "id": "49743eccbe60c045",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "教材/人工智能及其应用1-3/full.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "full"
+            }
+          },
+          {
+            "id": "61814140d3a185fb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "教材/PDF/人工智能及其应用.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "人工智能及其应用"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d45205cf395b0fbe",
@@ -143,6 +160,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "教材/PDF/人工智能及其应用.pdf",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -166,8 +184,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49743eccbe60c045",
+  "active": "61814140d3a185fb",
   "lastOpenFiles": [
+    "教材/人工智能及其应用1-3/full.md",
     "教材/计算机控制系统part1/full.md",
     "教材/PDF/计算机控制系统.pdf",
     "笔记/计算机控制系统/计算机控制系统.md",
