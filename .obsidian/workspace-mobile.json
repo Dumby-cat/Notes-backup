@@ -4,44 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f51d80b0b04a3b2f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "49743eccbe60c045",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "教材/人工智能及其应用1-3/full.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "full"
-            }
-          },
-          {
-            "id": "61814140d3a185fb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "教材/PDF/人工智能及其应用.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "人工智能及其应用"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "d45205cf395b0fbe",
         "type": "tabs",
         "children": [
           {
-            "id": "0935b6db538ac55f",
+            "id": "89a1db16a2f01dc7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -160,7 +127,6 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "教材/PDF/人工智能及其应用.pdf",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -184,9 +150,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "61814140d3a185fb",
+  "active": "89a1db16a2f01dc7",
   "lastOpenFiles": [
+    "笔记/电机拖动/电机拖动.md",
+    "教材/PDF/电机及拖动基础.pdf",
+    "教材/电机及拖动基础part1/full.md",
+    "笔记/电机拖动/images/Pasted image 20260908154925.png",
+    "笔记/电机拖动/images/Pasted image 20260908154728.png",
+    "笔记/电机拖动/images/Pasted image 20260908151500.png",
+    "笔记/电机拖动/images/Pasted image 20260908145435.png",
+    "笔记/电机拖动/images/Pasted image 20260908144305.png",
+    "笔记/电机拖动/images/Pasted image 20260908144246.png",
+    "笔记/电机拖动/images/Pasted image 20260908144202.jpg",
+    "笔记/电机拖动/images/Pasted image 20260908143934.jpg",
+    "笔记/电机拖动/images/Ink/Writing/2026.9.8 - 14.33pm.writing",
+    "笔记/电机拖动/images/Ink/Writing",
+    "笔记/电机拖动/images/Ink",
     "教材/人工智能及其应用1-3/full.md",
+    "教材/PDF/人工智能及其应用.pdf",
     "教材/计算机控制系统part1/full.md",
     "教材/PDF/计算机控制系统.pdf",
     "笔记/计算机控制系统/计算机控制系统.md",
@@ -198,28 +179,13 @@
     "笔记/线性代数.pdf",
     "笔记/微积分下.pdf",
     "笔记/大学物理下/大学物理下.md",
-    "笔记/电机拖动/电机拖动.md",
-    "教材/PDF/电机及拖动基础.pdf",
-    "教材/电机及拖动基础part1/full.md",
-    "笔记/电机拖动/ppt/第二章 电力拖动系统.pdf",
-    "笔记/电机拖动/ppt/1绪论.pdf",
     "笔记/电机拖动/images/Pasted image 20260903114238.png",
     "笔记/控制理论上/控制理论.md",
     "教材/PDF/images/Pasted image 20260307140724.jpg",
-    "教材/PDF/images/Pasted image 20260901150548.jpg",
-    "教材/PDF/images/Pasted image 20251201113320.jpg",
-    "笔记/控制理论下",
-    "笔记/电机拖动/images/Pasted image 20260901154632.png",
-    "笔记/电机拖动/images/Pasted image 20260901152751.png",
-    "笔记/电机拖动/images",
     "教材/自动控制原理/full.md",
     "笔记/传感器原理及应用/传感器原理及应用.md",
-    "笔记/传感器原理及应用/images/Pasted image 20260618154105.jpg",
-    "笔记/控制理论上/images/Pasted image 20260617095702.jpg",
     "教材/微处理器系统结构与嵌入式系统设计/full.md",
     "笔记/机械工程基础/机械工程基础.md",
-    "笔记/控制理论上/images/Pasted image 20260421114015.jpg",
-    "笔记/控制理论上/images/Pasted image 20260421113406.jpg",
     "教材/传感器原理及应用/full.md",
     "笔记/电力电子技术基础/电力电子技术基础.md",
     "教材/电力电子技术/full.md",
@@ -231,7 +197,6 @@
     "教材/信号与系统中文版后半部分/full.md",
     "笔记/复变函数/复变函数.md",
     "2026-03-05.md",
-    "笔记/大物实验/大物实验.md",
     "未命名.canvas",
     "Untitled.canvas"
   ]
