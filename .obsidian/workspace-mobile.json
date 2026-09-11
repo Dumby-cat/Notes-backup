@@ -8,40 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "89a1db16a2f01dc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "教材/现代控制理论part1/full.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "full"
-            }
-          },
-          {
-            "id": "d45663e50168f635",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "教材/PDF/现代控制理论_adjusted_color.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "现代控制理论_adjusted_color"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "851fdd6cfddceb67",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dc77cb2c225d02ee",
+            "id": "7177cad7c6c61945",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -52,6 +19,33 @@
               },
               "icon": "lucide-file",
               "title": "控制理论下"
+            }
+          },
+          {
+            "id": "b0fe196316d100ec",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "851fdd6cfddceb67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23a7b9427275c122",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -164,7 +158,6 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "笔记/控制理论下/控制理论下.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -188,20 +181,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc77cb2c225d02ee",
+  "active": "b0fe196316d100ec",
   "lastOpenFiles": [
+    "笔记/控制理论下/控制理论下.md",
+    "笔记/电机拖动/电机拖动.md",
+    "笔记/电机拖动/ppt/第三章 直流电机.pdf",
+    "笔记/电机拖动/images/Pasted image 20260910104703.png",
+    "教材/电机及拖动基础part1/full.md",
+    "教材/PDF/电机及拖动基础.pdf",
+    "笔记/电机拖动/images/Pasted image 20260910103944.jpg",
+    "笔记/电机拖动/ppt/images/Pasted image 20260910103011.jpg",
+    "笔记/电机拖动/ppt/images",
     "教材/PDF/现代控制理论_adjusted_color.pdf",
     "笔记/电机拖动/ppt/交流电机绕组.pdf",
     "笔记/电机拖动/ppt/变压器new.pdf",
     "笔记/电机拖动/ppt/他励直流电动机运行new.pdf",
     "笔记/电机拖动/ppt/三相异步电机运行.pdf",
     "笔记/电机拖动/ppt/三相异步电机.pdf",
-    "笔记/电机拖动/ppt/直流电机new.pdf",
-    "笔记/控制理论下/控制理论下.md",
     "教材/现代控制理论part1/full.md",
-    "笔记/电机拖动/电机拖动.md",
-    "教材/PDF/电机及拖动基础.pdf",
-    "教材/电机及拖动基础part1/full.md",
     "笔记/电机拖动/images/Pasted image 20260908154925.png",
     "笔记/电机拖动/images/Pasted image 20260908154728.png",
     "笔记/电机拖动/images/Pasted image 20260908151500.png",
@@ -209,18 +206,13 @@
     "笔记/电机拖动/images/Pasted image 20260908144305.png",
     "笔记/电机拖动/images/Pasted image 20260908144246.png",
     "笔记/电机拖动/images/Pasted image 20260908144202.jpg",
-    "笔记/电机拖动/images/Pasted image 20260908143934.jpg",
     "笔记/电机拖动/images/Ink/Writing/2026.9.8 - 14.33pm.writing",
-    "笔记/电机拖动/images/Ink/Writing",
-    "笔记/电机拖动/images/Ink",
     "教材/人工智能及其应用1-3/full.md",
     "教材/计算机控制系统part1/full.md",
     "笔记/计算机控制系统/计算机控制系统.md",
     "笔记/信号与系统/信号与系统.md",
     "笔记/大学物理下/大学物理下.md",
-    "笔记/电机拖动/images/Pasted image 20260903114238.png",
     "笔记/控制理论上/控制理论.md",
-    "教材/PDF/images/Pasted image 20260307140724.jpg",
     "教材/自动控制原理/full.md",
     "笔记/传感器原理及应用/传感器原理及应用.md",
     "教材/微处理器系统结构与嵌入式系统设计/full.md",
