@@ -20,33 +20,20 @@
             }
           },
           {
-            "id": "b0e9c4df70f6b07c",
+            "id": "a70f8397a0319a86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "教材/计算机控制系统part1/full.md",
+                "file": "教材/电机及拖动基础part1/full.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "full"
             }
-          },
-          {
-            "id": "f6ccaf6c7e6ac75b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "教材/PDF/计算机控制系统.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "计算机控制系统"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "851fdd6cfddceb67",
@@ -65,23 +52,8 @@
               "icon": "lucide-file",
               "title": "电机拖动"
             }
-          },
-          {
-            "id": "ccaa10d663d6bd6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "笔记/计算机控制系统/计算机控制系统.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "计算机控制系统"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +165,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "教材/PDF/计算机控制系统.pdf",
+            "file": "笔记/电机拖动/电机拖动.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -217,27 +189,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6ccaf6c7e6ac75b",
+  "active": "7bb89eb4308f9f87",
   "lastOpenFiles": [
+    "笔记/电机拖动/ppt/第三章 直流电机.pdf",
+    "笔记/电机拖动/电机拖动.md",
+    "教材/电机及拖动基础part1/full.md",
+    "笔记/电机拖动/images/Pasted image 20260914144946.jpg",
+    "笔记/电机拖动/images/Pasted image 20260914144313.jpg",
     "笔记/计算机控制系统/计算机控制系统.md",
     "教材/PDF/计算机控制系统.pdf",
+    "笔记/计算机控制系统/images/Pasted image 20260914115149.jpg",
+    "笔记/计算机控制系统/images/Pasted image 20260914115132.png",
+    "教材/计算机控制系统part1/full.md",
+    "教材/PDF/images/Pasted image 20260914114051.jpg",
+    "笔记/计算机控制系统/images/Pasted image 20260914114044.jpg",
     "笔记/计算机控制系统/images/Pasted image 20260914104701.jpg",
     "教材/计算机控制系统part1/images/321804aae60c3af9bd4348b03cf97248ae2bbcabf4c00a02de18eefdf79d66f9.jpg",
     "笔记/计算机控制系统/images/Pasted image 20260914104633.png",
-    "教材/计算机控制系统part1/full.md",
     "笔记/计算机控制系统/images/Pasted image 20260914104554.png",
-    "笔记/计算机控制系统/images/Pasted image 20260914104544.png",
     "笔记/计算机控制系统/images",
-    "笔记/电机拖动/电机拖动.md",
-    "笔记/电机拖动/ppt/第三章 直流电机.pdf",
-    "笔记/电机拖动/images/Pasted image 20260913182424.jpg",
-    "笔记/电机拖动/images/Pasted image 20260913182406.jpg",
-    "笔记/电机拖动/ppt/images/Pasted image 20260913182345.jpg",
-    "笔记/电机拖动/images/Pasted image 20260913182330.jpg",
     "教材/现代控制理论part1/full.md",
     "笔记/控制理论下/控制理论下.md",
     "笔记/控制理论下/pdf/第2章 控制系统的状态空间表达式.pdf",
-    "笔记/控制理论下/images/Pasted image 20260913164845.jpg",
     "笔记/控制理论下/images",
     "教材/PDF/现代控制理论_adjusted_color.pdf",
     "笔记/信号与系统/信号与系统.md",
@@ -245,7 +218,6 @@
     "笔记/控制理论下/pdf/第2章1现代控制理论控制系统的状态空间表达式.ppt",
     "笔记/控制理论下/pdf",
     "笔记/控制理论上/控制理论.md",
-    "教材/电机及拖动基础part1/full.md",
     "教材/PDF/电机及拖动基础.pdf",
     "教材/人工智能及其应用1-3/full.md",
     "笔记/大学物理下/大学物理下.md",
