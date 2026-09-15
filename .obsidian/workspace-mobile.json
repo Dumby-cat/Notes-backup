@@ -45,8 +45,7 @@
               "title": "电机及拖动基础"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "851fdd6cfddceb67",
@@ -179,7 +178,7 @@
           "type": "outline",
           "state": {
             "file": "笔记/电机拖动/电机拖动.md",
-            "followCursor": false,
+            "followCursor": true,
             "showSearch": false,
             "searchQuery": ""
           },
@@ -204,20 +203,20 @@
   },
   "active": "7bb89eb4308f9f87",
   "lastOpenFiles": [
-    "教材/PDF/电机及拖动基础.pdf",
     "笔记/电机拖动/ppt/第三章 直流电机.pdf",
     "笔记/电机拖动/电机拖动.md",
-    "笔记/电机拖动/images/Pasted image 20260915154027.jpg",
-    "笔记/电机拖动/images/Pasted image 20260915154007.jpg",
-    "笔记/电机拖动/images/Pasted image 20260915153449.jpg",
-    "笔记/电机拖动/images/Pasted image 20260915152011.jpg",
-    "笔记/电机拖动/images/Pasted image 20260915151752.jpg",
-    "笔记/电机拖动/images/Pasted image 20260915151735.jpg",
-    "笔记/电机拖动/images/Pasted image 20260915151448.jpg",
-    "笔记/电机拖动/images/Pasted image 20260915104317.jpg",
+    "笔记/电机拖动/images/Pasted image 20260915175317.png",
+    "教材/PDF/电机及拖动基础.pdf",
     "教材/电机及拖动基础part1/full.md",
-    "笔记/电机拖动/images/Pasted image 20260915104122.png",
-    "笔记/电机拖动/images/Pasted image 20260915103715.jpg",
+    "笔记/电机拖动/images/Pasted image 20260915174422.jpg",
+    "笔记/电机拖动/images/Pasted image 20260915173417.jpg",
+    "笔记/电机拖动/images/Pasted image 20260915172132.jpg",
+    "笔记/电机拖动/images/Pasted image 20260901154632.png",
+    "笔记/电机拖动/images/Pasted image 20260915171611.png",
+    "笔记/电机拖动/images/Pasted image 20260915154007.jpg",
+    "笔记/电机拖动/images/Pasted image 20260915171514.png",
+    "笔记/电机拖动/images/Pasted image 20260915154027.jpg",
+    "笔记/电机拖动/images/Pasted image 20260915153449.jpg",
     "笔记/计算机控制系统/计算机控制系统.md",
     "教材/PDF/计算机控制系统.pdf",
     "教材/计算机控制系统part1/full.md",
