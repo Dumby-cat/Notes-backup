@@ -32,6 +32,18 @@
               "icon": "lucide-file",
               "title": "full"
             }
+          },
+          {
+            "id": "e7be63d68eaaa13a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "教材/PDF/电机及拖动基础.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "电机及拖动基础"
+            }
           }
         ]
       },
@@ -165,7 +177,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "笔记/电机拖动/电机拖动.md",
+            "file": "笔记/电机拖动/ppt/第三章 直流电机.pdf",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -189,11 +201,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7bb89eb4308f9f87",
+  "active": "a293ac63ee2c388b",
   "lastOpenFiles": [
-    "笔记/电机拖动/ppt/第三章 直流电机.pdf",
     "笔记/电机拖动/电机拖动.md",
+    "笔记/电机拖动/ppt/第三章 直流电机.pdf",
+    "教材/PDF/电机及拖动基础.pdf",
+    "笔记/电机拖动/images/Pasted image 20260915104317.jpg",
     "教材/电机及拖动基础part1/full.md",
+    "笔记/电机拖动/images/Pasted image 20260915104122.png",
+    "笔记/电机拖动/images/Pasted image 20260915103715.jpg",
+    "笔记/电机拖动/images/Pasted image 20260915102932.jpg",
     "笔记/电机拖动/images/Pasted image 20260914144946.jpg",
     "笔记/电机拖动/images/Pasted image 20260914144313.jpg",
     "笔记/计算机控制系统/计算机控制系统.md",
@@ -203,10 +220,6 @@
     "教材/计算机控制系统part1/full.md",
     "教材/PDF/images/Pasted image 20260914114051.jpg",
     "笔记/计算机控制系统/images/Pasted image 20260914114044.jpg",
-    "笔记/计算机控制系统/images/Pasted image 20260914104701.jpg",
-    "教材/计算机控制系统part1/images/321804aae60c3af9bd4348b03cf97248ae2bbcabf4c00a02de18eefdf79d66f9.jpg",
-    "笔记/计算机控制系统/images/Pasted image 20260914104633.png",
-    "笔记/计算机控制系统/images/Pasted image 20260914104554.png",
     "笔记/计算机控制系统/images",
     "教材/现代控制理论part1/full.md",
     "笔记/控制理论下/控制理论下.md",
@@ -218,7 +231,6 @@
     "笔记/控制理论下/pdf/第2章1现代控制理论控制系统的状态空间表达式.ppt",
     "笔记/控制理论下/pdf",
     "笔记/控制理论上/控制理论.md",
-    "教材/PDF/电机及拖动基础.pdf",
     "教材/人工智能及其应用1-3/full.md",
     "笔记/大学物理下/大学物理下.md",
     "教材/自动控制原理/full.md",
