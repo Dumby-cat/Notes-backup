@@ -11,10 +11,12 @@
             "id": "9e1479a8aa61bcc7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "pdf",
+              "state": {
+                "file": "笔记/电机拖动/ppt/他励直流电动机运行new.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "他励直流电动机运行new"
             }
           }
         ]
@@ -149,6 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "笔记/电机拖动/电机拖动.md",
             "followCursor": true,
             "showSearch": false,
             "searchQuery": ""
@@ -172,27 +175,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e1479a8aa61bcc7",
+  "active": "6b68d1afa641e33d",
   "lastOpenFiles": [
+    "笔记/电机拖动/ppt/他励直流电动机运行new.pdf",
     "笔记/电机拖动/电机拖动.md",
+    "笔记/电机拖动/images/Pasted image 20260917113957.jpg",
+    "笔记/电机拖动/images/Pasted image 20260917113910.jpg",
+    "笔记/电机拖动/images/Pasted image 20260917113753.jpg",
+    "笔记/电机拖动/images/Pasted image 20260917112935.jpg",
+    "笔记/电机拖动/images/Pasted image 20260917112908.jpg",
+    "笔记/电机拖动/ppt/images/Pasted image 20260917111956.jpg",
+    "笔记/电机拖动/images/Pasted image 20260917111018.jpg",
+    "笔记/电机拖动/images/Pasted image 20260917110854.jpg",
+    "笔记/电机拖动/images/Pasted image 20260917110225.jpg",
+    "笔记/电机拖动/images/Pasted image 20260917105517.jpg",
     "笔记/电机拖动/ppt/第三章 直流电机.pdf",
-    "笔记/电机拖动/ppt/images/Pasted image 20260917094606.jpg",
-    "笔记/电机拖动/images/Pasted image 20260917094156.jpg",
-    "笔记/电机拖动/images/Pasted image 20260917093639.jpg",
-    "笔记/电机拖动/images/Pasted image 20260917093206.jpg",
     "笔记/控制理论下/pdf/第2章 控制系统的状态空间表达式.pdf",
     "教材/PDF/现代控制理论_adjusted_color.pdf",
     "教材/现代控制理论part1/full.md",
     "笔记/控制理论下/控制理论下.md",
     "笔记/信号与系统/信号与系统.md",
     "教材/PDF/电机及拖动基础.pdf",
-    "笔记/电机拖动/images/Pasted image 20260915200536.jpg",
     "教材/电机及拖动基础part1/full.md",
-    "笔记/电机拖动/images/Pasted image 20260915200436.png",
-    "笔记/电机拖动/images/Pasted image 20260915175317.png",
-    "笔记/电机拖动/images/Pasted image 20260915174422.jpg",
-    "笔记/电机拖动/images/Pasted image 20260915173417.jpg",
-    "笔记/电机拖动/images/Pasted image 20260915172132.jpg",
     "笔记/计算机控制系统/计算机控制系统.md",
     "教材/PDF/计算机控制系统.pdf",
     "教材/计算机控制系统part1/full.md",
@@ -200,7 +204,6 @@
     "笔记/控制理论下/images",
     "笔记/线性代数.pdf",
     "笔记/控制理论下/pdf/第2章1现代控制理论控制系统的状态空间表达式.ppt",
-    "笔记/控制理论下/pdf",
     "笔记/控制理论上/控制理论.md",
     "教材/人工智能及其应用1-3/full.md",
     "笔记/大学物理下/大学物理下.md",
