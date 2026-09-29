@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "00f8db824fa798ee",
+        "id": "607bda524e8b6cf1",
         "type": "tabs",
         "children": [
           {
-            "id": "23a55525334523cc",
+            "id": "1b607695b846b12f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/控制理论下/控制理论下.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "控制理论下"
-            }
-          },
-          {
-            "id": "2c22305697f13718",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "教材/现代控制理论part1/full.md",
+                "file": "教材/电机及拖动基础part1/full.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,19 +22,39 @@
             }
           },
           {
-            "id": "6b3bee250b1e95d4",
+            "id": "4ca4a19be1178409",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "笔记/控制理论下/pdf/第2章 控制系统的状态空间表达式.pdf"
+                "file": "笔记/电机拖动/ppt/他励直流电动机运行new.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "第2章 控制系统的状态空间表达式"
+              "title": "他励直流电动机运行new"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "8cf6e1d132ed13d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec3bf67c2cbe86c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记/电机拖动/电机拖动.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "电机拖动"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +166,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "教材/现代控制理论part1/full.md",
+            "file": "笔记/电机拖动/电机拖动.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -184,8 +190,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c22305697f13718",
+  "active": "ec3bf67c2cbe86c2",
   "lastOpenFiles": [
+    "笔记/电机拖动/ppt/他励直流电动机运行new.pdf",
+    "笔记/电机拖动/电机拖动.md",
+    "笔记/电机拖动/images/Pasted image 20260929104157.jpg",
+    "教材/电机及拖动基础part1/full.md",
     "笔记/控制理论下/pdf/第2章 控制系统的状态空间表达式.pdf",
     "教材/现代控制理论part1/full.md",
     "笔记/控制理论下/控制理论下.md",
@@ -197,9 +207,6 @@
     "笔记/控制理论下/pdf/第6章观测器设计.ppt",
     "笔记/控制理论下/pdf/第5章稳定性.ppt",
     "笔记/控制理论下/pdf/第4章现代控制理论能控能观11.ppt",
-    "笔记/电机拖动/电机拖动.md",
-    "笔记/电机拖动/ppt/他励直流电动机运行new.pdf",
-    "教材/电机及拖动基础part1/full.md",
     "教材/计算机控制系统part1/full.md",
     "笔记/计算机控制系统/计算机控制系统.md",
     "笔记/信号与系统/信号与系统.md",
@@ -212,7 +219,6 @@
     "笔记/电机拖动/images/Pasted image 20260917112908.jpg",
     "笔记/电机拖动/ppt/images/Pasted image 20260917111956.jpg",
     "笔记/电机拖动/images/Pasted image 20260917111018.jpg",
-    "笔记/电机拖动/images/Pasted image 20260917110854.jpg",
     "笔记/控制理论上/控制理论.md",
     "教材/人工智能及其应用1-3/full.md",
     "笔记/大学物理下/大学物理下.md",
