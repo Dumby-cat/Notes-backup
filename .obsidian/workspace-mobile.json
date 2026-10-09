@@ -32,6 +32,18 @@
               "icon": "lucide-file-text",
               "title": "他励直流电动机运行new"
             }
+          },
+          {
+            "id": "1b85f949ffc64171",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "教材/PDF/电机及拖动基础.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "电机及拖动基础"
+            }
           }
         ],
         "currentTab": 1
@@ -166,7 +178,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "笔记/电机拖动/ppt/他励直流电动机运行new.pdf",
+            "file": "教材/PDF/电机及拖动基础.pdf",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -193,13 +205,14 @@
   "active": "4ca4a19be1178409",
   "lastOpenFiles": [
     "笔记/电机拖动/电机拖动.md",
+    "教材/PDF/电机及拖动基础.pdf",
+    "教材/电机及拖动基础part1/full.md",
     "笔记/电机拖动/ppt/他励直流电动机运行new.pdf",
     "笔记/电机拖动/images/Pasted image 20261005160045.jpg",
     "笔记/电机拖动/images/Ink/Writing/2026.10.5 - 15.57pm.writing",
     "笔记/电机拖动/images/Pasted image 20260929153156.jpg",
     "笔记/电机拖动/images/Pasted image 20260929105150.jpg",
     "笔记/电机拖动/images/Pasted image 20260929104157.jpg",
-    "教材/电机及拖动基础part1/full.md",
     "笔记/控制理论下/pdf/第2章 控制系统的状态空间表达式.pdf",
     "教材/现代控制理论part1/full.md",
     "笔记/控制理论下/控制理论下.md",
@@ -209,7 +222,6 @@
     "笔记/控制理论下/pdf/第3章控制系统的状态空间表达式的解111.ppt",
     "笔记/控制理论下/pdf/第6章状态反馈.ppt",
     "笔记/控制理论下/pdf/第6章观测器设计.ppt",
-    "笔记/控制理论下/pdf/第5章稳定性.ppt",
     "教材/计算机控制系统part1/full.md",
     "笔记/计算机控制系统/计算机控制系统.md",
     "笔记/信号与系统/信号与系统.md",
