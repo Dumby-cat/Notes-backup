@@ -178,7 +178,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "教材/PDF/电机及拖动基础.pdf",
+            "file": "笔记/电机拖动/电机拖动.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -202,12 +202,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ca4a19be1178409",
+  "active": "ec3bf67c2cbe86c2",
   "lastOpenFiles": [
+    "笔记/电机拖动/ppt/他励直流电动机运行new.pdf",
     "笔记/电机拖动/电机拖动.md",
+    "笔记/电机拖动/images/Pasted image 20261009115400.jpg",
+    "笔记/电机拖动/images/Pasted image 20261009114331.jpg",
+    "笔记/电机拖动/images/Pasted image 20261009103240.jpg",
     "教材/PDF/电机及拖动基础.pdf",
     "教材/电机及拖动基础part1/full.md",
-    "笔记/电机拖动/ppt/他励直流电动机运行new.pdf",
     "笔记/电机拖动/images/Pasted image 20261005160045.jpg",
     "笔记/电机拖动/images/Ink/Writing/2026.10.5 - 15.57pm.writing",
     "笔记/电机拖动/images/Pasted image 20260929153156.jpg",
@@ -228,9 +231,6 @@
     "笔记/计算机控制系统/images/Pasted image 20260921105443.jpg",
     "笔记/电机拖动/images/Pasted image 20260920154404.jpg",
     "笔记/电机拖动/images/Pasted image 20260917113957.jpg",
-    "笔记/电机拖动/images/Pasted image 20260917113910.jpg",
-    "笔记/电机拖动/images/Pasted image 20260917113753.jpg",
-    "笔记/电机拖动/images/Pasted image 20260917112935.jpg",
     "笔记/控制理论上/控制理论.md",
     "教材/人工智能及其应用1-3/full.md",
     "笔记/大学物理下/大学物理下.md",
