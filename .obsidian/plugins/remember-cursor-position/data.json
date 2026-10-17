@@ -1,5 +1,12 @@
 {
   "dbFileName": ".obsidian/plugins/remember-cursor-position/cursor-positions.json",
   "delayAfterFileOpening": 300,
-  "saveTimer": 15840
+  "saveTimer": 5000,
+  "pruneOrphans": false,
+  "maxAgeDays": 0,
+  "maxCount": 0,
+  "defaultPosition": "default",
+  "skipRestoreFromSearch": true,
+  "restorePositionOnWorkspaceLoad": true,
+  "excludedFiles": []
 }

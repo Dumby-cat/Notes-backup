@@ -8,62 +8,64 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b607695b846b12f",
+            "id": "95983428abf3ed66",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "教材/PDF/计算机控制系统.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "计算机控制系统"
+            }
+          },
+          {
+            "id": "c239d194cbf5eb5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "教材/电机及拖动基础part1/full.md",
+                "file": "教材/计算机控制系统part1/full.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "full"
             }
-          },
-          {
-            "id": "1b85f949ffc64171",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "教材/PDF/电机及拖动基础.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "电机及拖动基础"
-            }
-          },
-          {
-            "id": "5e5d0c69a37e7fbd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "笔记/电机拖动/ppt/变压器new.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "变压器new"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "8cf6e1d132ed13d9",
         "type": "tabs",
         "children": [
           {
-            "id": "ec3bf67c2cbe86c2",
+            "id": "8b1d10b1202fdf60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/电机拖动/电机拖动.md",
+                "file": "笔记/计算机控制系统/计算机控制系统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "电机拖动"
+              "title": "计算机控制系统"
+            }
+          },
+          {
+            "id": "858aee6f49a53a93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记/控制理论下/控制理论下.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "控制理论下"
             }
           }
         ]
@@ -178,9 +180,9 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "笔记/电机拖动/电机拖动.md",
+            "file": "教材/计算机控制系统part1/full.md",
             "followCursor": false,
-            "showSearch": false,
+            "showSearch": true,
             "searchQuery": ""
           },
           "icon": "lucide-list",
@@ -202,35 +204,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e07c362f805ebfd",
+  "active": "8b1d10b1202fdf60",
   "lastOpenFiles": [
-    "笔记/电机拖动/ppt/变压器new.pdf",
+    "笔记/控制理论下/控制理论下.md",
+    "教材/计算机控制系统part1/full.md",
+    "笔记/计算机控制系统/计算机控制系统.md",
+    "笔记/计算机控制系统/ppt/1 计算机控制系统概述.ppt",
+    "笔记/计算机控制系统/ppt/5 z变换理论.ppt",
+    "笔记/计算机控制系统/ppt/2 计算机控制系统的信号.ppt",
+    "笔记/计算机控制系统/ppt/4 信号的恢复.ppt",
+    "笔记/计算机控制系统/ppt/3 采样过程的数学描述及特性分析.ppt",
+    "笔记/计算机控制系统/ppt",
+    "教材/PDF/计算机控制系统.pdf",
+    "笔记/计算机控制系统/images/Pasted image 20261012113352.jpg",
+    "笔记/计算机控制系统/images/Pasted image 20261012112930.jpg",
+    "教材/电机及拖动基础part1/full.md",
     "笔记/电机拖动/电机拖动.md",
+    "笔记/电机拖动/ppt/变压器new.pdf",
     "笔记/电机拖动/ppt/三相异步电机.pdf",
     "笔记/电机拖动/ppt/交流电机绕组.pdf",
-    "笔记/电机拖动/ppt/第三章 直流电机.pdf",
-    "笔记/电机拖动/ppt/他励直流电动机运行new.pdf",
-    "教材/PDF/电机及拖动基础.pdf",
     "笔记/电机拖动/images/Pasted image 20261009115400.jpg",
     "笔记/电机拖动/images/Pasted image 20261009114331.jpg",
     "笔记/电机拖动/images/Pasted image 20261009103240.jpg",
-    "教材/电机及拖动基础part1/full.md",
     "笔记/电机拖动/images/Pasted image 20261005160045.jpg",
-    "笔记/电机拖动/images/Ink/Writing/2026.10.5 - 15.57pm.writing",
     "笔记/电机拖动/images/Pasted image 20260929153156.jpg",
     "笔记/电机拖动/images/Pasted image 20260929105150.jpg",
     "笔记/电机拖动/images/Pasted image 20260929104157.jpg",
-    "笔记/控制理论下/pdf/第2章 控制系统的状态空间表达式.pdf",
     "教材/现代控制理论part1/full.md",
-    "笔记/控制理论下/控制理论下.md",
-    "教材/PDF/现代控制理论_adjusted_color.pdf",
-    "教材/PDF/自动控制原理.pdf",
-    "教材/计算机控制系统part1/full.md",
-    "笔记/计算机控制系统/计算机控制系统.md",
     "笔记/信号与系统/信号与系统.md",
     "笔记/计算机控制系统/images/Pasted image 20260921105443.jpg",
-    "笔记/电机拖动/images/Pasted image 20260920154404.jpg",
-    "笔记/电机拖动/images/Pasted image 20260917113957.jpg",
     "笔记/控制理论上/控制理论.md",
     "教材/人工智能及其应用1-3/full.md",
     "笔记/大学物理下/大学物理下.md",
